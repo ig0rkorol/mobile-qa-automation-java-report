@@ -1,57 +1,18 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"  The app must start and get the user to the main list without crashing (P0).","7056","Splash hands over to the main screen","","2026-10-26","passed","2026-10-26","","App launch","Splash hands over to the main screen",""
-"  The crash/ANR guard is a safety net for every scenario, so it is tested itself:
-  the app is crashed on purpose and the guard must see it.","7490","Crash guard detects a crash of the app","","2026-10-26","passed","2026-10-26","","Framework self-test","Crash guard detects a crash of the app",""
-"  The app must start and get the user to the main list without crashing (P0).","26502","Back during splash exits without opening the main screen","","2026-10-26","passed","2026-10-26","","App launch","Back during splash exits without opening the main screen",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","7751","Download opens the paywall from Earth 6","","2026-10-26","passed","2026-10-26","","Paywall","Download opens the paywall from Earth 6",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","9822","Paywall can be dismissed by tapping Not now","","2026-10-26","passed","2026-10-26","","Paywall","Paywall can be dismissed by tapping Not now",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","10309","Purchase gives feedback and closes the paywall","","2026-10-26","passed","2026-10-26","","Paywall","Purchase gives feedback and closes the paywall",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","10401","Subscribe gives feedback and closes the paywall","","2026-10-26","passed","2026-10-26","","Paywall","Subscribe gives feedback and closes the paywall",""
-"  Real users rotate the phone, switch apps and lose network (P2).","13064","App works offline","","2026-10-26","passed","2026-10-26","","Interruptions","App works offline",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","8750","Paywall can be dismissed by tapping outside","","2026-10-26","passed","2026-10-26","","Paywall","Paywall can be dismissed by tapping outside",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","9718","Paywall can be reopened after dismissing","","2026-10-26","passed","2026-10-26","","Paywall","Paywall can be reopened after dismissing",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","11429","Restore purchases gives feedback and closes the paywall","","2026-10-26","passed","2026-10-26","","Paywall","Restore purchases gives feedback and closes the paywall",""
+"  The main list must be readable in both system themes (WCAG AA contrast 4.5:1).","41272","Row titles are readable in light theme","","2026-10-26","passed","2026-10-26","","Appearance","Row titles are readable in light theme",""
+"  The app must start and get the user to the main list without crashing (P0).","14621","Main screen lists all items","","2026-10-26","passed","2026-10-26","","App launch","Main screen lists all items",""
+"  The app must start and get the user to the main list without crashing (P0).","5696","Splash hands over to the main screen","","2026-10-26","passed","2026-10-26","","App launch","Splash hands over to the main screen",""
 "  Each scenario asserts the CORRECT behaviour for a bug from BUGS.md, so it is red while the
   bug is still present and shows up in the Allure report under ""Known bugs — still present"".
   CI does not fail on these known failures, only on new ones; when a known-bug scenario turns
-  green the bug is fixed and CI asks to remove the tag.","18096","BUG-2 — paywall must survive rotation","","2026-10-26","failed","2026-10-26","","Known bugs","BUG-2 — paywall must survive rotation",""
-"  The app must start and get the user to the main list without crashing (P0).","24214","Main screen lists all items","","2026-10-26","passed","2026-10-26","","App launch","Main screen lists all items",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","9127","Paywall can be dismissed by pressing Back","","2026-10-26","passed","2026-10-26","","Paywall","Paywall can be dismissed by pressing Back",""
+  green the bug is fixed and CI asks to remove the tag.","14502","BUG-1 — double tap on Download must open only one paywall","","2026-10-26","failed","2026-10-26","","Known bugs","BUG-1 — double tap on Download must open only one paywall",""
 "  Each scenario asserts the CORRECT behaviour for a bug from BUGS.md, so it is red while the
   bug is still present and shows up in the Allure report under ""Known bugs — still present"".
   CI does not fail on these known failures, only on new ones; when a known-bug scenario turns
-  green the bug is fixed and CI asks to remove the tag.","17353","BUG-3 — Not now must be fully visible in landscape","","2026-10-26","failed","2026-10-26","","Known bugs","BUG-3 — Not now must be fully visible in landscape",""
+  green the bug is fixed and CI asks to remove the tag.","12959","BUG-3 — Not now must be fully visible in landscape","","2026-10-26","failed","2026-10-26","","Known bugs","BUG-3 — Not now must be fully visible in landscape",""
 "  Each scenario asserts the CORRECT behaviour for a bug from BUGS.md, so it is red while the
   bug is still present and shows up in the Allure report under ""Known bugs — still present"".
   CI does not fail on these known failures, only on new ones; when a known-bug scenario turns
-  green the bug is fixed and CI asks to remove the tag.","18843","BUG-1 — double tap on Download must open only one paywall","","2026-10-26","failed","2026-10-26","","Known bugs","BUG-1 — double tap on Download must open only one paywall",""
-"  The app must start and get the user to the main list without crashing (P0).","6885","Splash screen is shown on launch","","2026-10-26","passed","2026-10-26","","App launch","Splash screen is shown on launch",""
-"  Real users rotate the phone, switch apps and lose network (P2).","12065","Main screen survives rotation","","2026-10-26","passed","2026-10-26","","Interruptions","Main screen survives rotation",""
-"  The main list must be readable in both system themes (WCAG AA contrast 4.5:1).","14488","BUG-7 — row titles must be readable in dark theme","","2026-10-26","failed","2026-10-26","","Appearance","BUG-7 — row titles must be readable in dark theme",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","8490","Paywall shows the offer and all actions","","2026-10-26","passed","2026-10-26","","Paywall","Paywall shows the offer and all actions",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","8931","Download opens the paywall from Earth 1","","2026-10-26","passed","2026-10-26","","Paywall","Download opens the paywall from Earth 1",""
-"  Real users rotate the phone, switch apps and lose network (P2).","11341","Main screen survives background and foreground","","2026-10-26","passed","2026-10-26","","Interruptions","Main screen survives background and foreground",""
-"  The main list must be readable in both system themes (WCAG AA contrast 4.5:1).","57400","Row titles are readable in light theme","","2026-10-26","passed","2026-10-26","","Appearance","Row titles are readable in light theme",""
-"  DOWNLOAD is the monetization entry point: it must open the paywall from every row,
-  the offer must be visible, every action must give feedback and the user must always
-  be able to leave (P0/P1). In this build billing is disabled — actions show a toast.","20159","Download opens the paywall from Earth 11","","2026-10-26","passed","2026-10-26","","Paywall","Download opens the paywall from Earth 11",""
+  green the bug is fixed and CI asks to remove the tag.","14829","BUG-2 — paywall must survive rotation","","2026-10-26","failed","2026-10-26","","Known bugs","BUG-2 — paywall must survive rotation",""
+"  The main list must be readable in both system themes (WCAG AA contrast 4.5:1).","10776","BUG-7 — row titles must be readable in dark theme","","2026-10-26","failed","2026-10-26","","Appearance","BUG-7 — row titles must be readable in dark theme",""
+"  The app must start and get the user to the main list without crashing (P0).","5721","Splash screen is shown on launch","","2026-10-26","passed","2026-10-26","","App launch","Splash screen is shown on launch",""
