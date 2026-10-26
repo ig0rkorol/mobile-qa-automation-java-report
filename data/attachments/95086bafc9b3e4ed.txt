@@ -1,1 +1,0 @@
-Artifacts: /home/runner/work/mobile-qa-automation-java/mobile-qa-automation-java/artifacts/BUG-2_paywall_must_survive_rotation
