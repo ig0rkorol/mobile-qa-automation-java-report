@@ -1,0 +1,1323 @@
+--------- beginning of system
+10-26 13:10:45.030   479  1577 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{5ddaa5c u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0x5787c13
+--------- beginning of main
+10-26 13:10:45.188  5745  5764 I droid.apps.doc: Waiting for a blocking GC ProfileSaver
+10-26 13:10:45.263  1395  5865 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:45.347   675   675 D Tonal   : Tonal Palette - index: 10. Main color: ffe590b7
+10-26 13:10:45.347   675   675 D Tonal   : Colors: ff060104, ff1b0613, ff2f0b23, ff481135, ff671850, ff861f5d, ffa42773, ffbe4d91, ffd85a9e, ffde73aa, ffe590b7, ffefb9d1, fff5d6e5
+10-26 13:10:45.347   675   675 D Tonal   : Gradients: 
+10-26 13:10:45.347   675   675 D Tonal   : 	Normal GradientColors(ffe590b7, ffe590b7)
+10-26 13:10:45.347   675   675 D Tonal   : 	Dark GradientColors(ff481135, ff481135)
+10-26 13:10:45.347   675   675 D Tonal   : 	Extra dark: GradientColors(ff2f0b23, ff2f0b23)
+10-26 13:10:45.347   675   675 D Tonal   : Tonal Palette - index: 10. Main color: ffe590b7
+10-26 13:10:45.347   675   675 D Tonal   : Colors: ff060104, ff1b0613, ff2f0b23, ff481135, ff671850, ff861f5d, ffa42773, ffbe4d91, ffd85a9e, ffde73aa, ffe590b7, ffefb9d1, fff5d6e5
+10-26 13:10:45.349   479   479 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+10-26 13:10:45.349   479   479 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+10-26 13:10:45.412   675   675 D Tonal   : Gradients: 
+10-26 13:10:45.412   675   675 D Tonal   : 	Normal GradientColors(ffe590b7, ffe590b7)
+10-26 13:10:45.412   675   675 D Tonal   : 	Dark GradientColors(ff481135, ff481135)
+10-26 13:10:45.412   675   675 D Tonal   : 	Extra dark: GradientColors(ff2f0b23, ff2f0b23)
+10-26 13:10:45.593   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f4926000 0x3f524c000]
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: Exception thrown while unbinding
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: java.lang.IllegalArgumentException: Service not registered: tel@6c2ba38
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:1757)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at android.app.ContextImpl.unbindService(ContextImpl.java:1874)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:792)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at sib.b(PG:29)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at sib.a(PG:25)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at tem.q(PG:48)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at tdx.a(PG:5)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at svs.run(PG:5)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+10-26 13:10:45.605  5396  5508 W ConnectionTracker: 	at tbd.run(PG:36)
+10-26 13:10:45.616   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f6de8000 0x3f770e000]
+10-26 13:10:45.704   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f5b72000 0x3f6498000]
+10-26 13:10:45.752   479   508 W Looper  : Slow dispatch took 134ms android.ui h=com.android.server.am.ActivityManagerService$UiHandler c=null m=31
+10-26 13:10:45.778   875   875 D RecentsOrientedState: current RecentsOrientedState: [this=RecentsOrientedState@4b0c61b mOrientationHandler=PortraitPagedViewHandler@c0fca47 mDisplayRotation=0 mTouchRotation=0 mRecentsActivityRotation=0 isRecentsActivityRotationAllowed=false mSystemRotation=true mFlags=299]
+10-26 13:10:45.778   875   875 D RecentsOrientedState: current RecentsOrientedState: [this=RecentsOrientedState@4b0c61b mOrientationHandler=PortraitPagedViewHandler@c0fca47 mDisplayRotation=0 mTouchRotation=0 mRecentsActivityRotation=0 isRecentsActivityRotationAllowed=false mSystemRotation=true mFlags=299]
+10-26 13:10:45.800   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f7fd5000 0x3f7fea000]
+10-26 13:10:45.882   875  1974 E FrameEvents: updateAcquireFence: Did not find frame.
+10-26 13:10:45.882   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f7fea000 0x3f7fff000]
+10-26 13:10:45.949  5712  5735 I OpenGLRenderer: Davey! duration=825ms; Flags=1, IntendedVsync=136821778160, Vsync=137088444816, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=137092124942, AnimationStart=137092127386, PerformTraversalsStart=137092128768, DrawStart=137558971648, SyncQueued=137579346917, SyncStart=137618594268, IssueDrawCommandsStart=137626453279, SwapBuffers=137661359330, FrameCompleted=137686371703, DequeueBufferDuration=208388, QueueBufferDuration=4089107, GpuCompleted=72904454231491230, 
+10-26 13:10:45.951   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f7fea000 0x3f7fff000]
+10-26 13:10:45.999   875  1974 E FrameEvents: updateAcquireFence: Did not find frame.
+10-26 13:10:46.001   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f7710000 0x3f7725000]
+10-26 13:10:46.003  5712  5712 I Choreographer: Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-26 13:10:46.087   875   875 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+10-26 13:10:46.112   675   675 D NavigationModeController: getCurrentInteractionMode: mode=0 contextUser=0
+10-26 13:10:46.112   675   675 D StatusBar: disable<e i a s b h r c s > disable2<q i n >
+10-26 13:10:46.113   675   675 D NavigationModeController: getCurrentInteractionMode: mode=0 contextUser=0
+10-26 13:10:46.132   675   675 D NavigationModeController: getCurrentUserContext: contextUser=0 currentUser=0
+10-26 13:10:46.151   675   675 D NavigationModeController: getCurrentInteractionMode: mode=0 contextUser=0
+10-26 13:10:46.186   875   875 I Choreographer: Skipped 49 frames!  The application may be doing too much work on its main thread.
+10-26 13:10:46.228  5745  5764 I droid.apps.doc: WaitForGcToComplete blocked ProfileSaver on ClassLinker for 1.040s
+10-26 13:10:46.233  5745  5776 W DynamiteModule: Local module descriptor class for providerinstaller not found.
+10-26 13:10:46.308   675   675 D NavigationModeController: getCurrentUserContext: contextUser=0 currentUser=0
+10-26 13:10:46.381   479   765 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+10-26 13:10:46.383   479   765 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+10-26 13:10:46.389   479   479 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+10-26 13:10:46.389   479   479 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+10-26 13:10:46.389   479  1577 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+10-26 13:10:46.389   479  1577 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+10-26 13:10:46.432   479  2146 I ActivityManager: Force stopping com.zipo.interviewproject appid=10157 user=0: from pid 5958
+10-26 13:10:46.434   479  2146 I ActivityManager: Killing 5712:com.zipo.interviewproject/u0a157 (adj 0): stop com.zipo.interviewproject due to from pid 5958
+10-26 13:10:46.435   479  2146 W ActivityTaskManager: Force removing ActivityRecord{684fcc9 u0 com.zipo.interviewproject/.MainActivity t12 f}}: app died, no saved state
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.441   479  2146 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.443   479  2146 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.443   479  2146 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.443   479  2146 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.443   479  2146 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.443   479  2146 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.443   479  2146 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.443   479  2146 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.443   479  2146 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.444   479  2146 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.444   479  2146 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:46.486   986   986 D CarrierSvcBindHelper: No carrier app for: 0
+10-26 13:10:46.491  1708  1708 W PhoneWindow: Previously focused view reported id 2131431831 during save, but can't be found during restore.
+10-26 13:10:46.511   392   392 I perfetto: probes_producer.cc:329  Producer stop (id=10)
+10-26 13:10:46.519   395   395 I perfetto: ng_service_impl.cc:1948 Tracing session 10 ended, total sessions:0
+10-26 13:10:46.546   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f6498000 0x3f6dbe000]
+10-26 13:10:46.559   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f8926000]
+10-26 13:10:46.569   479  1577 W ActivityManager: Unable to start service Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } U=0: not found
+10-26 13:10:46.569   479  1577 W RemoteAppPredictionService: could not bind to Intent { act=android.service.appprediction.AppPredictionService cmp=com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService } using flags 67108865
+10-26 13:10:46.570   479   518 I libprocessgroup: Successfully killed process cgroup uid 10157 pid 5712 in 134ms
+10-26 13:10:46.571   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f8926000 0x3f924c000]
+10-26 13:10:46.578   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f924c000 0x3f9b72000]
+10-26 13:10:46.625  5745  5776 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+10-26 13:10:46.643   275   275 I Zygote  : Process 5712 exited due to signal 9 (Killed)
+10-26 13:10:46.685   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f4926000 0x3f524c000]
+10-26 13:10:46.699   479  2120 W WindowManager: Cannot find window which accessibility connection is added to
+10-26 13:10:46.704   479   510 W ActivityManager: setHasOverlayUi called on unknown pid: 5712
+10-26 13:10:46.712  5745  5776 I droid.apps.doc: The ClassLoaderContext is a special shared library.
+10-26 13:10:46.726  1708  3294 E sb.v.u.LiteSuggestSourc: On-device lite suggest model loading error.
+10-26 13:10:46.736  1708  2081 W ThreadPoolDumper: Queue length for executor EventBus is now 11. Perhaps some tasks are too long, or the pool is too small.
+10-26 13:10:46.775   392   392 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+10-26 13:10:46.795   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f5b72000 0x3f6498000]
+10-26 13:10:46.826   875   900 I s.nexuslaunche: Background young concurrent copying GC freed 36555(1844KB) AllocSpace objects, 14(888KB) LOS objects, 36% free, 4852KB/7582KB, paused 16us total 348.654ms
+10-26 13:10:46.829   875   875 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+10-26 13:10:46.829   479   511 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{21af47e u0 com.android.systemui.ImageWallpaper}, surfaceController Surface(name=com.android.systemui.ImageWallpaper)/@0x85f192c
+10-26 13:10:46.898   479   510 W WindowManager: App freeze timeout expired.
+10-26 13:10:46.898   479   510 W WindowManager: Window freeze timeout expired.
+10-26 13:10:46.898   479   510 W WindowManager: Force clearing orientation change: Window{2e374c0 u0 NavigationBar0}
+10-26 13:10:46.898   479   510 W WindowManager: Force clearing orientation change: Window{6aaee44 u0 StatusBar}
+10-26 13:10:46.898   479   510 W WindowManager: Force clearing orientation change: Window{21af47e u0 com.android.systemui.ImageWallpaper}
+10-26 13:10:46.961  1864  1874 I FuseDaemon: Background concurrent copying GC freed 337230(18MB) AllocSpace objects, 210(4328KB) LOS objects, 49% free, 3224KB/6448KB, paused 18us total 423.642ms
+10-26 13:10:47.034  1708  2140 E MDD     : DownloadProgressMonitor: Can't find file group for uri: android://com.google.android.googlequicksearchbox/files/sharedminusonemodule/shared/SharedMinusOneData.pb.tmp
+10-26 13:10:47.039  1708  1708 W NowVeViewportMonitor: Attempting to report viewport hidden that is already hidden.
+10-26 13:10:47.044  5745  5776 I droid.apps.doc: The ClassLoaderContext is a special shared library.
+10-26 13:10:47.268  1708  1708 I BgTaskExecutorImpl: Starting EXCLUSIVE background task TNG_MINUS_ONE_SYNC.
+10-26 13:10:47.327  5745  5776 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/PrebuiltGmsCore/lib/x86:/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86:/product/lib:/system/product/lib
+10-26 13:10:47.344  5745  5776 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 286 native methods...
+10-26 13:10:47.351  1983  5875 D DownloadManager: [4] Finished with status SUCCESS
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: Could not register for notifications with InnerTube: 
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: rff: java.util.concurrent.ExecutionException: qjl: Precondition check failed.
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at rex.b(PG:18)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at uqp.f(PG:65)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at uqp.g(PG:134)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at uqp.b(PG:99)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at uqn.run(Unknown Source:1)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at ywx.run(Unknown Source:1)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at pqt.run(PG:13)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: Caused by: java.util.concurrent.ExecutionException: qjl: Precondition check failed.
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at zsp.a(PG:135)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at zsp.get(PG:91)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at rex.b(PG:17)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	... 11 more
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: Caused by: qjl: Precondition check failed.
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at rdu.b(PG:106)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at pyo.a(PG:61)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at pxo.run(Unknown Source:17)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	... 4 more
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: Caused by: bjj
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	at pxo.run(Unknown Source:13)
+10-26 13:10:47.516  4558  4884 W YouTubeMusic: 	... 4 more
+10-26 13:10:47.629   675   675 I Choreographer: Skipped 146 frames!  The application may be doing too much work on its main thread.
+10-26 13:10:47.633   479   511 I WindowManager: Screen frozen for +2s970ms due to Window{2e374c0 u0 NavigationBar0}
+10-26 13:10:47.695   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f7710000 0x3f7fab000]
+10-26 13:10:47.699  1708  2081 I TngMinusOneSync: Syncing TNG:-1
+10-26 13:10:47.721  1334  1418 I PeriodicStatsRunner: PeriodicStatsRunner.call():180 call()
+10-26 13:10:47.722  1334  1418 I PeriodicStatsRunner: PeriodicStatsRunner.call():184 No submit PeriodicStats since input started.
+10-26 13:10:47.726  1708  1728 I earchbox:searc: CollectorTransition concurrent copying GC freed 66084(2942KB) AllocSpace objects, 4(204KB) LOS objects, 49% free, 10MB/20MB, paused 19us total 2.631s
+10-26 13:10:47.792  1395  5865 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:47.810   479   511 W ImageReader_JNI: Unable to acquire a buffer item, very likely client tried to acquire more than maxImages buffers
+10-26 13:10:47.942   479   488 I system_server: Background young concurrent copying GC freed 198022(10MB) AllocSpace objects, 55(3232KB) LOS objects, 37% free, 20MB/32MB, paused 58us total 629.676ms
+10-26 13:10:47.945   479   490 W System  : A resource failed to call release. 
+10-26 13:10:47.945   479   490 I chatty  : uid=1000(system) FinalizerDaemon identical 2 lines
+10-26 13:10:47.945   479   490 W System  : A resource failed to call release. 
+10-26 13:10:47.951  5968  5970 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+10-26 13:10:48.039  5745  5776 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+10-26 13:10:48.099  5894  5923 I TetheringManager: registerTetheringEventCallback:com.google.android.apps.maps
+10-26 13:10:48.162   479  2150 W ActivityManager: Slow operation: 530ms so far, now at getContentProviderImpl: after updateLruProcess
+10-26 13:10:48.162   479  2150 W ActivityManager: Slow operation: 530ms so far, now at getContentProviderImpl: before updateOomAdj
+10-26 13:10:48.162   479  2150 W ActivityManager: Slow operation: 530ms so far, now at getContentProviderImpl: after updateOomAdj
+10-26 13:10:48.162   479  2150 W ActivityManager: Slow operation: 530ms so far, now at getContentProviderImpl: done!
+10-26 13:10:48.162   479   511 I Choreographer: Skipped 31 frames!  The application may be doing too much work on its main thread.
+10-26 13:10:48.165   479  1601 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.zipo.interviewproject/.SplashActivity} from uid 2000
+10-26 13:10:48.170   479   510 D EventSequenceValidator: Transition from INTENT_FAILED to INTENT_STARTED
+10-26 13:10:48.173   479   510 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10157; state: DISABLED
+10-26 13:10:48.173   479   510 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+10-26 13:10:48.176  5974  5976 I cmd     : oneway function results will be dropped but finished with status OK and parcel size 4
+10-26 13:10:48.181   479   517 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10157; state: ENABLED
+10-26 13:10:48.207   675   675 W View    : requestLayout() improperly called by com.android.keyguard.AlphaOptimizedLinearLayout{335dc13 V.E...... ......ID 7,0-48,61 #7f0a050b app:id/wifi_group} during layout: running second layout pass
+10-26 13:10:48.210   675   675 W View    : requestLayout() improperly called by com.android.keyguard.AlphaOptimizedLinearLayout{fa602ac V.E...... ......ID 7,0-48,61 #7f0a050b app:id/wifi_group} during layout: running second layout pass
+10-26 13:10:48.222   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f6de8000 0x3f770e000]
+10-26 13:10:48.255  1080  5498 W NetworkScheduler: The Firebase Job Dispatcher and GmsTaskScheduler are deprecated for apps targeting API 30 or newer. Application com.google.android.apps.maps has targetSdkVersion 30. Please migrate to the WorkManager or JobScheduler.
+10-26 13:10:48.290  1080  5498 W NetworkScheduler: Running in whitelist mode. Ignoring task: com.google.android.apps.maps/com.google.android.apps.gmm.shared.cache.glide.GlideDiskCacheExpirationService{u=0 tag="glide.cache.periodic" trigger=window{period=86400s,flex=900s,earliest=82080s,latest=86400s} requirements=[NET_CONNECTED] attributes=[PERSISTED,RECURRING] scheduled=0s last_run=N/A jid=N/A status=UNKNOWN retries=0 client_lib=MANCHEGO_GCM-202210000}
+10-26 13:10:48.292  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:48.295  4665  4893 I appium  : FindElement command
+10-26 13:10:48.296  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+10-26 13:10:48.296  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:48.321  1708  1708 D l       : setAvailableAccounts() 0 -> 0.
+10-26 13:10:48.321  1708  1708 D l       : availableAccounts hasn't changed, returning.
+10-26 13:10:48.321  1708  1708 D l       : modelLoaded
+10-26 13:10:48.393   275   275 D Zygote  : Forked child process 5983
+10-26 13:10:48.393   479   517 W ActivityManager: Slow operation: 220ms so far, now at startProcess: returned from zygote!
+10-26 13:10:48.393   479   517 W ActivityManager: Slow operation: 220ms so far, now at startProcess: done updating battery stats
+10-26 13:10:48.393   479   517 W ActivityManager: Slow operation: 220ms so far, now at startProcess: building log message
+10-26 13:10:48.393   479   517 I ActivityManager: Start proc 5983:com.zipo.interviewproject/u0a157 for pre-top-activity {com.zipo.interviewproject/com.zipo.interviewproject.SplashActivity}
+10-26 13:10:48.393   479   517 W ActivityManager: Slow operation: 220ms so far, now at startProcess: starting to update pids map
+10-26 13:10:48.393   479   517 W ActivityManager: Slow operation: 220ms so far, now at startProcess: done updating pids map
+10-26 13:10:48.408  1395  1464 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:48.408  1395  1464 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:48.422   675  1169 I OpenGLRenderer: Davey! duration=3237ms; Flags=1, IntendedVsync=136921744178, Vsync=139355077414, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=139366320189, AnimationStart=139366321140, PerformTraversalsStart=139366423742, DrawStart=140154422555, SyncQueued=140154999580, SyncStart=140155167999, IssueDrawCommandsStart=140156023506, SwapBuffers=140158892406, FrameCompleted=140159418515, DequeueBufferDuration=23916, QueueBufferDuration=184503, GpuCompleted=0, 
+10-26 13:10:48.426   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f4007000]
+10-26 13:10:48.429   675  1472 D HostConnection: HostConnection::get() New Host Connection established 0xb7387b70, tid 1472
+10-26 13:10:48.432   675  1472 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+10-26 13:10:48.433   675  1472 D EGL_emulation: eglCreateContext: 0xb7388f20: maj 3 min 0 rcv 3
+10-26 13:10:48.438   395   395 I perfetto: ing_service_impl.cc:758 Configured tracing session 11, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+10-26 13:10:48.438   392   392 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=11)
+10-26 13:10:48.442  5983  5983 I nterviewprojec: Late-enabling -Xcheck:jni
+10-26 13:10:48.464   675  1472 D EGL_emulation: eglMakeCurrent: 0xb7388f20: ver 3 0 (tinfo 0xbe0cac90) (first time)
+10-26 13:10:48.478  5983  5983 I nterviewprojec: Unquickening 12 vdex files!
+10-26 13:10:48.478  5983  5983 W nterviewprojec: Unexpected CPU variant for X86 using defaults: x86
+10-26 13:10:48.480   392   392 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+10-26 13:10:48.529  2212  2238 I adbd    : jdwp connection from 5983
+10-26 13:10:48.580   479  1601 W ActivityManager: Slow operation: 51ms so far, now at attachApplicationLocked: before bindApplication
+10-26 13:10:48.582  2479  3538 I Finsky  : [303] adia.a(4): Cleaning the verify apps datastore
+10-26 13:10:48.583   479  1601 W ActivityManager: Slow operation: 54ms so far, now at attachApplicationLocked: immediately before bindApplication
+10-26 13:10:48.583   479  1601 W ActivityManager: Slow operation: 55ms so far, now at attachApplicationLocked: immediately after bindApplication
+10-26 13:10:48.583   479  1601 W ActivityManager: Slow operation: 55ms so far, now at attachApplicationLocked: after updateLruProcessLocked
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:48.584   479  1601 W ActivityManager: Slow operation: 56ms so far, now at attachApplicationLocked: after mServices.attachApplicationLocked
+10-26 13:10:48.704  5894  5912 I droid.apps.map: Waiting for a blocking GC ProfileSaver
+10-26 13:10:48.728  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"error":"no such element","message":"An element could not be located on the page using the given search parameters","stacktrace":"io.appium.uiautomator2.common.exceptions.ElementNotFoundException: An element could not be located on the page using the given search parameters\n\tat io.appium.uiautomator2.handler.FindElement.safeHandle(FindElement.java:63)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:267)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:261)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:107)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:434)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:361)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:325)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:249)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:288)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1429)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:176)\n\tat io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)\n\tat io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)\n\tat io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)\n\tat io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)\n\tat io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1195)\n\tat io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)\n\tat io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)\n\tat java.lang.Thread.run(Thread.java:923)\n"}}
+10-26 13:10:48.739   479   508 W Looper  : Slow dispatch took 143ms android.ui h=com.android.server.wm.DisplayPolicy$PolicyHandler c=com.android.server.wm.-$$Lambda$DisplayPolicy$HbdRZfPpJ53Wnk7_Ueb0ycyz_AQ@918a77 m=0
+10-26 13:10:48.749  1395  1413 I PeopleChimeraService: onService. callbacks = zup@23301f8, request = com.google.android.gms.common.internal.GetServiceRequest@82196d1
+10-26 13:10:48.970   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f4007000 0x3f400e000]
+10-26 13:10:48.973  5396  5682 W YouTube : Could not register for notifications with InnerTube: 
+10-26 13:10:48.973  5396  5682 W YouTube : abwi: java.util.concurrent.ExecutionException: aacl: Precondition check failed.
+10-26 13:10:48.973  5396  5682 W YouTube : 	at abwa.b(PG:18)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at aicr.f(PG:65)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at aicr.g(PG:133)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at aicr.b(PG:99)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at ahyh.run(Unknown Source:1)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at aosv.run(Unknown Source:1)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at zdm.run(PG:13)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:48.973  5396  5682 W YouTube : Caused by: java.util.concurrent.ExecutionException: aacl: Precondition check failed.
+10-26 13:10:48.973  5396  5682 W YouTube : 	at apmr.a(PG:135)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at apmr.get(PG:89)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at abwa.b(PG:17)
+10-26 13:10:48.973  5396  5682 W YouTube : 	... 11 more
+10-26 13:10:48.973  5396  5682 W YouTube : Caused by: aacl: Precondition check failed.
+10-26 13:10:48.973  5396  5682 W YouTube : 	at abuo.c(PG:106)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at znq.a(PG:62)
+10-26 13:10:48.973  5396  5682 W YouTube : 	at zmp.run(Unknown Source:18)
+10-26 13:10:48.973  5396  5682 W YouTube : 	... 4 more
+10-26 13:10:48.973  5396  5682 W YouTube : Caused by: btc
+10-26 13:10:48.973  5396  5682 W YouTube : 	at zmp.run(Unknown Source:6)
+10-26 13:10:48.973  5396  5682 W YouTube : 	... 4 more
+10-26 13:10:48.983   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f400e000 0x3f4015000]
+10-26 13:10:48.990  1080  5498 W NetworkScheduler: The Firebase Job Dispatcher and GmsTaskScheduler are deprecated for apps targeting API 30 or newer. Application com.google.android.apps.maps has targetSdkVersion 30. Please migrate to the WorkManager or JobScheduler.
+10-26 13:10:48.990  1080  5498 W NetworkScheduler: Running in whitelist mode. Ignoring task: com.google.android.apps.maps/com.google.android.apps.gmm.offline.update.OfflineAutoUpdateMaintenanceGcmService{u=0 tag="default-tag" trigger=window{period=86400s,flex=1800s,earliest=82079s,latest=86399s} requirements=[NET_ANY,CHARGING] attributes=[PERSISTED,RECURRING] scheduled=0s last_run=N/A jid=N/A status=UNKNOWN retries=0 client_lib=MANCHEGO_GCM-202210000}
+10-26 13:10:48.994   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f4015000 0x3f401c000]
+10-26 13:10:49.010   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f401c000 0x3f4023000]
+10-26 13:10:49.031  1395  1408 I gle.android.gm: CollectorTransition concurrent copying GC freed 110221(5071KB) AllocSpace objects, 18(856KB) LOS objects, 46% free, 27MB/51MB, paused 377.957ms total 3.932s
+10-26 13:10:49.045  2479  3538 I Finsky  : [303] adia.a(49): Finished cleaning the verify apps datastore
+10-26 13:10:49.052   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f4023000 0x3f402a000]
+10-26 13:10:49.070  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:49.071  4665  4893 I appium  : FindElement command
+10-26 13:10:49.071  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+10-26 13:10:49.071  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:49.072  2479  2479 I Finsky  : [2] adig.a(7): Done verifying installed packages
+10-26 13:10:49.094   675  1169 I OpenGLRenderer: Davey! duration=3890ms; Flags=1, IntendedVsync=136921744178, Vsync=139355077414, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=139366320189, AnimationStart=139366321140, PerformTraversalsStart=139366423742, DrawStart=140163202149, SyncQueued=140791185233, SyncStart=140810209847, IssueDrawCommandsStart=140810325148, SwapBuffers=140816755612, FrameCompleted=140831553250, DequeueBufferDuration=4142596, QueueBufferDuration=9147428, GpuCompleted=72904454231491242, 
+10-26 13:10:49.101   675   675 I OpaEnabledReceiver: Dispatching OPA eligble = false; AGSA = true; OPA enabled = false
+10-26 13:10:49.101   675   675 I OpaLayout: Setting opa enabled to false
+10-26 13:10:49.101   675   675 I OpaLayout: Setting opa enabled to false
+10-26 13:10:49.167   675   819 D EglHelper: createEglContext start
+10-26 13:10:49.192   675   675 I Choreographer: Skipped 61 frames!  The application may be doing too much work on its main thread.
+10-26 13:10:49.277   675   819 D EGL_emulation: eglCreateContext: 0xb7389d20: maj 3 min 0 rcv 3
+10-26 13:10:49.277   675   819 D EglHelper: createEglContext done
+10-26 13:10:49.277   675   819 D EglHelper: createEglSurface start
+10-26 13:10:49.277   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f402a000 0x3f4505000]
+10-26 13:10:49.358   675  1169 I OpenGLRenderer: Davey! duration=1188ms; Flags=1, IntendedVsync=139904886424, Vsync=140921553050, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=140929946380, AnimationStart=140929946770, PerformTraversalsStart=140930296889, DrawStart=141084570427, SyncQueued=141084816381, SyncStart=141087411595, IssueDrawCommandsStart=141087489581, SwapBuffers=141091395095, FrameCompleted=141096015198, DequeueBufferDuration=36995, QueueBufferDuration=2756322, GpuCompleted=0, 
+10-26 13:10:49.381  5983  5983 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:49.381  5983  5983 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:49.399   675  1169 I OpenGLRenderer: Davey! duration=1222ms; Flags=1, IntendedVsync=139904886424, Vsync=140921553050, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=140929946380, AnimationStart=140929946770, PerformTraversalsStart=140930296889, DrawStart=141120936200, SyncQueued=141121088836, SyncStart=141130709746, IssueDrawCommandsStart=141130749946, SwapBuffers=141134040139, FrameCompleted=141136830192, DequeueBufferDuration=26068, QueueBufferDuration=136762, GpuCompleted=72907374809055240, 
+10-26 13:10:49.406  5983  5983 D WM-WrkMgrInitializer: Initializing WorkManager with default configuration.
+10-26 13:10:49.415   675   819 D EglHelper: createEglSurface done
+10-26 13:10:49.455  5983  5983 I TetheringManager: registerTetheringEventCallback:com.zipo.interviewproject
+10-26 13:10:49.505  2479  2535 I Finsky  : [238] wae.a(14): SCH: jobFinished: 10-8. TimeElapsed: 52987ms.
+10-26 13:10:49.506  2479  2479 I Finsky  : [2] vyu.a(35): SCH: Job 10-8 finished. Not rescheduling.
+10-26 13:10:49.506  2479  2479 I Finsky  : [2] vyt.handleMessage(58): SCH: RunningQueue size: 0, PendingQueue size: 0
+10-26 13:10:49.506  2479  2479 I Finsky  : [2] vyt.handleMessage(24): Executor finished
+10-26 13:10:49.507  2479  2775 W SQLiteLog: (28) double-quoted string literal: "2026-10-26"
+10-26 13:10:49.507  2479  2775 W SQLiteLog: (28) double-quoted string literal: "2026-10-26"
+10-26 13:10:49.522  5263  5280 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10128; state: DISABLED
+10-26 13:10:49.523  5396  5679 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10124; state: DISABLED
+10-26 13:10:49.524  5745  5852 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10113; state: DISABLED
+10-26 13:10:49.530  5983  5983 W nterviewprojec: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+10-26 13:10:49.530  5983  5983 W nterviewprojec: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+10-26 13:10:49.531  5894  5911 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10123; state: ENABLED
+10-26 13:10:49.531  5189  5208 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10106; state: DISABLED
+10-26 13:10:49.532  5093  5544 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10106; state: DISABLED
+10-26 13:10:49.533  5286  5300 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10121; state: DISABLED
+10-26 13:10:49.533  4701  4733 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10125; state: DISABLED
+10-26 13:10:49.535  5012  5815 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10097; state: ENABLED
+10-26 13:10:49.535  4540  4555 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10108; state: ENABLED
+10-26 13:10:49.537  4793  4881 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10134; state: DISABLED
+10-26 13:10:49.542  4558  4573 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10111; state: DISABLED
+10-26 13:10:49.542  4282  4575 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10117; state: ENABLED
+10-26 13:10:49.543  1537  1537 I GservicesProvider: override update completed
+10-26 13:10:49.561   479   762 W BroadcastQueue: Permission Denial: receiving Intent { act=com.google.gservices.intent.action.GSERVICES_OVERRIDE flg=0x1000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver requires com.google.android.providers.gsf.permission.WRITE_GSERVICES due to sender com.android.vending (uid 10102)
+10-26 13:10:49.578  5983  6016 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+10-26 13:10:49.579  5983  6016 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+10-26 13:10:49.582  5983  6016 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+10-26 13:10:49.631  5894  5912 I droid.apps.map: WaitForGcToComplete blocked ProfileSaver on RunEmptyCheckpoint for 927.123ms
+10-26 13:10:49.663  5983  6011 W nterviewprojec: Verification of androidx.work.impl.model.WorkSpec[] androidx.work.impl.model.WorkSpecDao_Impl.getWorkSpecs(java.util.List) took 102.022ms (7478.72 bytecodes/s) (10224B approximate peak alloc)
+10-26 13:10:49.681  3080  3080 I CarrierServices: [2] ekb.d: Carrier Services GServices flags:
+10-26 13:10:49.681  3080  3080 I CarrierServices:    carrier_services_security_flags_ec_api_white_listed_packages: com.google.android.apps.messaging,com.google.android.dialer,com.google.android.ims.client.sampleapp,com.android.contacts,com.lge.rcscall,com.android.incallui,com.huawei.incallui.appfeature.rcsfeature
+10-26 13:10:49.681  3080  3080 I CarrierServices:    carrier_services_security_flags_ec_api_white_listed_signatures: B28C3EDB665DF32686224DF800F603E9959BBE4E,0980A12BE993528C19107BC21AD811478C63CEFC,B38FA7B5ECFAEC44620A020752B07E063B3120A8,203997BC46B8792DC9747ABD230569071F9A0439,EDA6413C3E3A95492114FE07CD953AD897E40D1A,760EBB9F4200B3DFB1B817B40FF0563A3C150D39,5B368CFF2DA2686996BC95EAC190EAA4F5630FE5,01D845B26B688D8EF647205A5944E9407E52E06E,27196E386B875E76ADF700E7EA84E4C6EEE33DFA,1CDD04F1E4A732BB0352FDFAEE26D2315526DF85,025D5212BF3B5F5CDA6117A518721D70A94D84E0
+10-26 13:10:49.681  3080  3080 I CarrierServices:    carrier_services_security_flags_test_service_white_listed_packages: com.google.android.ims.mobly.snippets
+10-26 13:10:49.681  3080  3080 I CarrierServices:    carrier_services_security_flags_test_service_white_listed_signatures: AE41481F52E0F58DF2806D5A38EB3DBCA5AE02B0,E165542B31953CC282AA4EF2F4D5F07F7663A2A2
+10-26 13:10:49.681  3080  3080 I CarrierServices:    carrier_services_security_flags_white_listed_packages: com.google.android.apps.messaging,com.google.android.dialer,com.google.android.ims.client.sampleapp,com.android.contacts,com.lge.rcscall,com.android.incallui,com.huawei.incallui.appfeature.rcsfeature
+10-26 13:10:49.681  3080  3080 I CarrierServices:    carrier_services_security_flags_white_listed_signatures: B28C3EDB665DF32686224DF800F603E9959BBE4E,0980A12BE993528C19107BC21AD811478C63CEFC,B38FA7B5ECFAEC44620A020752B07E063B3120A8,203997BC46B8792DC9747ABD230569071F9A0439,EDA6413C3E3A95492114FE07CD953AD897E40D1A,760EBB9F4200B3DFB1B817B40FF0563A3C150D39,5B368CFF2DA2686996BC95EAC190EAA4F5630FE5,01D845B26B688D8EF647205A5944E9407E52E06E,27196E386B875E76ADF700E7EA84E4C6EEE33DFA,1CDD04F1E4A732BB0352FDFAEE26D2315526DF85,025D5212BF3B5F5CDA6117A518721D70A94D84E0
+10-26 13:10:49.681  3080  3080 I CarrierServices:    carrier_services_sip_flags_should_use_tycho_version_for_sip_header: true
+10-26 13:10:49.681  3080  3080 I CarrierServices:    carrier_services_video_share_disabled_user_agent_substrings: SM-G930,SM-G935,SM-A320
+10-26 13:10:49.681  3080  3080 I CarrierServices: ====================
+10-26 13:10:49.682  3080  3080 D PrimesShutdown: BroadcastReceiver: action = com.google.gservices.intent.action.GSERVICES_CHANGED
+10-26 13:10:49.715  2479  2479 I Finsky  : [2] wbh.a(7): SCH: Jobs in database: 1-1337 12-1 21-333333333 24-77777777 26-1414141414 31-305419896 
+10-26 13:10:49.783  1395  1408 I gle.android.gm: Background young concurrent copying GC freed 417558(12MB) AllocSpace objects, 0(0B) LOS objects, 60% free, 15MB/39MB, paused 23us total 737.196ms
+10-26 13:10:49.843   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f4505000 0x3f49e0000]
+10-26 13:10:49.913  2479  2479 I Finsky  : [2] vxc.a(58): SCH: ConstraintMapping: 24-77777777,  -> L: 0ms, D: 82748426ms, C: false, I: true, N: 0
+10-26 13:10:49.913  2479  2479 I Finsky  : [2] vxc.a(58): SCH: ConstraintMapping: 1-1337, 12-1, 21-333333333, 31-305419896,  -> L: 0ms, D: 22080161ms, C: false, I: false, N: 1
+10-26 13:10:49.913  2479  2479 I Finsky  : [2] vxc.a(58): SCH: ConstraintMapping: 26-1414141414,  -> L: 848727ms, D: 1748727ms, C: false, I: false, N: 0
+10-26 13:10:49.921  2479  2479 I Finsky  : [2] vzr.a(36): Cancelling existing jobscheduler jobs: 
+10-26 13:10:49.922  2479  2479 I Finsky  : [2] vzr.a(29): Scheduling job Id: 9000, L: 0, D: 82748426, C: false, I: true, N: 0
+10-26 13:10:49.934   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f49e0000 0x3f4ebb000]
+10-26 13:10:49.966  5983  6012 D HostConnection: HostConnection::get() New Host Connection established 0xee3278b0, tid 6012
+10-26 13:10:49.973  2479  2479 I Finsky  : [2] vzr.a(29): Scheduling job Id: 9002, L: 0, D: 22080161, C: false, I: false, N: 1
+10-26 13:10:50.025  5983  6012 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+10-26 13:10:50.039   154   154 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device manifest.
+10-26 13:10:50.056   479  2399 I ActivityManager: Killing 4936:com.google.android.onetimeinitializer/u0a137 (adj 985): empty #17
+10-26 13:10:50.059  2479  2479 I Finsky  : [2] vzr.a(29): Scheduling job Id: 9003, L: 848727, D: 1748727, C: false, I: false, N: 0
+10-26 13:10:50.062  5983  6012 D EGL_emulation: eglCreateContext: 0xee327c30: maj 3 min 0 rcv 3
+10-26 13:10:50.067  2479  2479 I Finsky  : [2] wbh.a(20): SCH: onJobSchedulerWakeup with jobId 9002
+10-26 13:10:50.071  2479  2479 I Finsky  : [2] vyk.a(19): Scheduling fallback job with id: 9034, and delay: 43200000 ms
+10-26 13:10:50.072  2479  2479 I Finsky  : [2] vyk.a(9): Scheduling fallback in 64800000 (absolute: 64941809)
+10-26 13:10:50.075  5983  6012 D EGL_emulation: eglMakeCurrent: 0xee327c30: ver 3 0 (tinfo 0xee679ad0) (first time)
+10-26 13:10:50.082  2479  2479 I Finsky  : [2] vyt.handleMessage(7): SCH: DeviceState: DeviceState{currentTime=1793045450079, isCharging=true, isIdle=false, netAny=true, netNotRoaming=true, netUnmetered=true, batteryPercent=100.0}
+10-26 13:10:50.083   275   275 I Zygote  : Process 4936 exited due to signal 9 (Killed)
+10-26 13:10:50.083  3191  4062 W BugleRcsEngine: [370] wxm.a: No config URL. RCS will be disabled!
+10-26 13:10:50.084   479  3798 I ActivityManager: Killing 4987:com.google.android.packageinstaller/u0a76 (adj 985): empty #17
+10-26 13:10:50.089  2479  6015 I Finsky  : [382] wbh.a(7): SCH: Jobs in database: 1-1337 12-1 21-333333333 24-77777777 26-1414141414 31-305419896 
+10-26 13:10:50.091   275   275 I Zygote  : Process 4987 exited due to signal 9 (Killed)
+10-26 13:10:50.098  2479  2479 I Finsky  : [2] vyu.a(16): SCH: Running job: 12-1
+10-26 13:10:50.098  2479  2479 I Finsky  : [2] ContentSyncJob.a(16): [ContentSync] job started
+10-26 13:10:50.098  2479  2479 I Finsky  : [2] vyu.a(16): SCH: Running job: 31-305419896
+10-26 13:10:50.098  2479  2479 W Finsky  : [2] dpw.a(25): For unauth, use getDfeApiNonAuthenticated() instead!
+10-26 13:10:50.099  2479  2479 I Finsky  : [2] vyt.handleMessage(58): SCH: RunningQueue size: 2, PendingQueue size: 0
+10-26 13:10:50.099  2479  2479 I Finsky  : [2] vyt.handleMessage(62): SCH: Running queue: 12-1 31-305419896 
+10-26 13:10:50.101   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3faccd000 0x3fb5f3000]
+10-26 13:10:50.102  2479  2872 I Finsky  : [266] jbf.c(2): Account name null when calculating account hash
+10-26 13:10:50.103  1080  1490 I GeofencerStateMachine: removeGeofences: removeRequest=RemoveGeofencingRequest[REMOVE_BY_IDS Ids=[atn_geofence_request_id], packageName=com.google.android.apps.maps]
+10-26 13:10:50.103   479   518 I libprocessgroup: Successfully killed process cgroup uid 10137 pid 4936 in 46ms
+10-26 13:10:50.103   479   518 I libprocessgroup: Successfully killed process cgroup uid 10076 pid 4987 in 0ms
+10-26 13:10:50.113  5894  6032 W droid.apps.map: Unsupported class loader
+10-26 13:10:50.118  5894  6032 W droid.apps.map: Unsupported class loader
+10-26 13:10:50.118   479  2399 E system_server: Invalid class loader spec: =UnsupportedClassLoaderContext=
+10-26 13:10:50.118   479  2399 E PackageDexUsage: Unsupported context?
+10-26 13:10:50.119  5894  6032 I droid.apps.map: Waiting for a blocking GC ClassLinker
+10-26 13:10:50.126   154   154 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+10-26 13:10:50.127  5983  6012 I Gralloc4: mapper 4.x is not supported
+10-26 13:10:50.128  5983  6012 D HostConnection: createUnique: call
+10-26 13:10:50.128  5983  6012 D HostConnection: HostConnection::get() New Host Connection established 0xee327300, tid 6012
+10-26 13:10:50.128  5983  6012 D goldfish-address-space: allocate: Ask for block of size 0x100
+10-26 13:10:50.128  5983  6012 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3f3ffe000 size 0x2000
+10-26 13:10:50.141  5983  6012 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+10-26 13:10:50.146   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f8926000]
+10-26 13:10:50.148   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f8926000 0x3f924c000]
+10-26 13:10:50.157  5894  6032 I droid.apps.map: WaitForGcToComplete blocked ClassLinker on ClassLinker for 37.776ms
+10-26 13:10:50.223  1708  1708 I BgTaskExecutorImpl: Starting EXCLUSIVE background task FETCH_CONFIGS_FROM_PHENOTYPE.
+10-26 13:10:50.266   675   692 I ndroid.systemu: Background young concurrent copying GC freed 86830(3717KB) AllocSpace objects, 8(160KB) LOS objects, 24% free, 10MB/14MB, paused 18us total 1.100s
+10-26 13:10:50.284  1537  1549 I ocess.gservice: Background concurrent copying GC freed 44758(1696KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 2535KB/5070KB, paused 13us total 240.691ms
+10-26 13:10:50.285  3191  6036 D BugleRcsEngine: log_saver already enabled
+10-26 13:10:50.336  1080  1477 I BeaconBle: Client requested scan, settings=BleSettings [scanMode=ZERO_POWER, callbackType=ALL_MATCHES, reportDelayMillis=0, 5 filters, 1 clients, callingClientName=Nearby] [CONTEXT service_id=111 ]
+10-26 13:10:50.353  3080  3410 W CarrierServices: [301] dvk.a: No config URL. RCS will be disabled!
+10-26 13:10:50.376   479   510 I system_server: Explicit concurrent copying GC freed 123001(8623KB) AllocSpace objects, 11(292KB) LOS objects, 49% free, 14MB/29MB, paused 50us total 191.060ms
+10-26 13:10:50.377   479   489 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: com.android.server.wm.-$$Lambda$ju_KnYxEFekr6LzoWamCeaO5FHQ
+10-26 13:10:50.377   479   489 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+10-26 13:10:50.406  2479  2872 E Volley  : [266] bok.a: Unexpected response code 404 for https://play-fe.googleapis.com/fdfe/deviceSettings
+10-26 13:10:50.406  2479  2872 W Finsky  : [266] drc.a(10): IOException while manually unzipping request.
+10-26 13:10:50.408  2479  2775 E Finsky  : [241] jed.a(7): Error getting device settings.
+10-26 13:10:50.408  2479  2775 E Finsky  : network time: 305, HTTP status code: na, exception com.android.volley.ClientError
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at rrk.a(Unknown Source:4)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at bnu.b(PG:3)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at dqe.b(PG:6)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at bnm.run(PG:3)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at android.os.Handler.handleCallback(Handler.java:938)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at android.os.Handler.dispatchMessage(Handler.java:99)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at android.os.Looper.loop(Looper.java:223)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at android.app.ActivityThread.main(ActivityThread.java:7656)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+10-26 13:10:50.408  2479  2775 E Finsky  : [241] jdw.a(3): Error while refreshing device settings: network time: 305, HTTP status code: na, exception com.android.volley.ClientError. Retrying.
+10-26 13:10:50.408  2479  2775 E Finsky  : network time: 305, HTTP status code: na, exception com.android.volley.ClientError
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at rrk.a(Unknown Source:4)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at bnu.b(PG:3)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at dqe.b(PG:6)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at bnm.run(PG:3)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at android.os.Handler.handleCallback(Handler.java:938)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at android.os.Handler.dispatchMessage(Handler.java:99)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at android.os.Looper.loop(Looper.java:223)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at android.app.ActivityThread.main(ActivityThread.java:7656)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+10-26 13:10:50.408  2479  2775 E Finsky  : 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+10-26 13:10:50.408  2479  2775 I Finsky  : [241] wae.a(14): SCH: jobFinished: 31-305419896. TimeElapsed: 309ms.
+10-26 13:10:50.409  2479  2479 I Finsky  : [2] vyu.a(39): SCH: Job 31-305419896 finished. Rescheduling.
+10-26 13:10:50.409  2479  2479 I Finsky  : [2] vyt.handleMessage(58): SCH: RunningQueue size: 1, PendingQueue size: 0
+10-26 13:10:50.409  2479  2479 I Finsky  : [2] vyt.handleMessage(62): SCH: Running queue: 12-1 
+10-26 13:10:50.442  1080  1477 I BeaconBle: Stopping scan on delegate scanner. BT state: 12 [CONTEXT service_id=111 ]
+10-26 13:10:50.442  1080  1477 D BluetoothAdapter: isLeEnabled(): ON
+10-26 13:10:50.448  2903  2903 I TY_Phenotype: [080:008] [2903] onReceive - Received Phenotype broadcast.
+10-26 13:10:50.503  3080  5005 D CarrierServices: log_saver already enabled
+10-26 13:10:50.517  3080  3410 I CarrierServices: [301] ehg.a: KEY_CONFIG_IMS_PACKAGE_OVERRIDE_STRING: com.google.android.ims
+10-26 13:10:50.529   479  2399 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10098; state: DISABLED
+10-26 13:10:50.529   479   517 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10098; state: DISABLED
+10-26 13:10:50.533  1080  1477 I BeaconBle: Resetting - new scanner available: true [CONTEXT service_id=111 ]
+10-26 13:10:50.533  1080  1477 I BeaconBle: ZERO_POWER is disabled. [CONTEXT service_id=111 ]
+10-26 13:10:50.534  1080  1477 I BeaconBle: 'L' hardware scan: scan stopped, no powered clients [CONTEXT service_id=111 ]
+10-26 13:10:50.548   275   275 D Zygote  : Forked child process 6047
+10-26 13:10:50.548   479   517 I ActivityManager: Start proc 6047:com.google.android.apps.pixelmigrate/u0a98 for broadcast {com.google.android.apps.pixelmigrate/com.google.android.apps.pixelmigrate.component.PhenotypeUpdateReceiver}
+10-26 13:10:50.553  6047  6047 W ps.pixelmigrat: Unexpected CPU variant for X86 using defaults: x86
+10-26 13:10:50.556  6047  6047 E ps.pixelmigrat: Not starting debugger since process cannot load the jdwp agent.
+10-26 13:10:50.584  6047  6047 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-26 13:10:50.597  6047  6047 I ps.pixelmigrat: The ClassLoaderContext is a special shared library.
+10-26 13:10:50.597  6047  6047 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/AndroidMigratePrebuilt/lib/x86:/product/lib:/system/product/lib
+10-26 13:10:50.618  6047  6047 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:50.618  6047  6047 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:50.633   479   490 W System  : A resource failed to call release. 
+10-26 13:10:50.645  5983  5998 I nterviewprojec: Background young concurrent copying GC freed 30371(2076KB) AllocSpace objects, 1(20KB) LOS objects, 90% free, 2528KB/26MB, paused 65us total 166.648ms
+10-26 13:10:50.677  1080  1091 I .gms.persisten: Background young concurrent copying GC freed 139179(7165KB) AllocSpace objects, 15(804KB) LOS objects, 42% free, 10MB/18MB, paused 33us total 326.625ms
+10-26 13:10:50.707  5894  6045 W droid.apps.map: Verification of dr ln.a(boolean) took 276.016ms (2231.75 bytecodes/s) (10344B approximate peak alloc)
+10-26 13:10:50.728   479  2148 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10096; state: DISABLED
+10-26 13:10:50.728   479   517 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10096; state: DISABLED
+10-26 13:10:50.733   275   275 D Zygote  : Forked child process 6074
+10-26 13:10:50.734   479  2148 I ActivityManager: Killing 5189:com.google.android.projection.gearhead:car/u0a106 (adj 985): empty #17
+10-26 13:10:50.736   479   517 I ActivityManager: Start proc 6074:com.google.android.apps.restore/u0a96 for broadcast {com.google.android.apps.restore/com.google.android.apps.pixelmigrate.component.PhenotypeUpdateReceiver}
+10-26 13:10:50.738  6074  6074 W id.apps.restor: Unexpected CPU variant for X86 using defaults: x86
+10-26 13:10:50.747  6047  6071 I DynamiteModule: Considering local module com.google.android.gms.flags:3 and remote module com.google.android.gms.flags:3
+10-26 13:10:50.747  6047  6071 I DynamiteModule: Selected local version of com.google.android.gms.flags
+10-26 13:10:50.774  6074  6074 E id.apps.restor: Not starting debugger since process cannot load the jdwp agent.
+10-26 13:10:50.774  6047  6071 W DynamiteModule: Local module descriptor class for com.google.android.gms.crash not found.
+10-26 13:10:50.779  6047  6071 I DynamiteModule: Considering local module com.google.android.gms.crash:0 and remote module com.google.android.gms.crash:215
+10-26 13:10:50.779  6047  6071 I DynamiteModule: Selected remote version of com.google.android.gms.crash, version >= 215
+10-26 13:10:50.779  6047  6071 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+10-26 13:10:50.795   275   275 I Zygote  : Process 5189 exited due to signal 9 (Killed)
+10-26 13:10:50.802  6074  6074 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-26 13:10:50.808  6074  6074 I id.apps.restor: The ClassLoaderContext is a special shared library.
+10-26 13:10:50.808  6074  6074 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/GoogleRestorePrebuilt/lib/x86:/product/lib:/system/product/lib
+10-26 13:10:50.816  6074  6074 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:50.816  6074  6074 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:50.821   479   518 I libprocessgroup: Successfully killed process cgroup uid 10106 pid 5189 in 86ms
+10-26 13:10:50.852   675   694 W System  : A resource failed to call release. 
+10-26 13:10:50.857  5894  5906 W droid.apps.map: Suspending all threads took: 10.233ms
+10-26 13:10:50.866  6047  6071 W ps.pixelmigrat: Unsupported class loader
+10-26 13:10:50.871  5983  6012 I OpenGLRenderer: Davey! duration=1152ms; Flags=1, IntendedVsync=141454870310, Vsync=141454870310, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=141458613612, AnimationStart=141458616727, PerformTraversalsStart=141458618449, DrawStart=141881835233, SyncQueued=141882860522, SyncStart=141884228413, IssueDrawCommandsStart=141884270365, SwapBuffers=142496008033, FrameCompleted=142608799058, DequeueBufferDuration=2323852, QueueBufferDuration=5405105, GpuCompleted=72904454231491230, 
+10-26 13:10:50.881   479   515 D ArtManagerInternalImpl: /data/misc/iorapd/com.zipo.interviewproject/1/com.zipo.interviewproject.SplashActivity/compiled_traces/compiled_trace.pb doesn't exist
+10-26 13:10:50.886   479   510 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+10-26 13:10:50.996   405   627 E IPCThreadState: binder thread pool (1 threads) starved for 110 ms
+10-26 13:10:51.002   479   515 I ActivityTaskManager: Displayed com.zipo.interviewproject/.SplashActivity: +2s716ms
+10-26 13:10:51.050  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"error":"no such element","message":"An element could not be located on the page using the given search parameters","stacktrace":"io.appium.uiautomator2.common.exceptions.ElementNotFoundException: An element could not be located on the page using the given search parameters\n\tat io.appium.uiautomator2.handler.FindElement.safeHandle(FindElement.java:63)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:267)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:261)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:107)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:434)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:361)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:325)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:249)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:288)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1429)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:176)\n\tat io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)\n\tat io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)\n\tat io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)\n\tat io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)\n\tat io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1195)\n\tat io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)\n\tat io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)\n\tat java.lang.Thread.run(Thread.java:923)\n"}}
+10-26 13:10:51.123  6047  6071 W ps.pixelmigrat: Unsupported class loader
+10-26 13:10:51.197   479  1596 E system_server: Invalid class loader spec: =UnsupportedClassLoaderContext=
+10-26 13:10:51.197   479  1596 E PackageDexUsage: Unsupported context?
+10-26 13:10:51.233   675   694 W System  : A resource failed to call release. 
+10-26 13:10:51.233   675   694 W System  : A resource failed to call release. 
+10-26 13:10:51.287  1708  3294 I PBSessionCacheImpl: Deleted sessionId[7513656486297055] from persistence.
+10-26 13:10:51.296  6047  6071 I FirebaseCrashApiImpl: FirebaseCrashApiImpl created by ClassLoader ax[DexPathList[[zip file "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"],nativeLibraryDirectories=[/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/x86, /data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/armeabi-v7a, /data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/armeabi, /system/lib, /system_ext/lib]]]
+10-26 13:10:51.296  6047  6071 I FirebaseCrash: FirebaseCrash reporting loaded - esr@c0fca47
+10-26 13:10:51.309  1708  2081 W SearchServiceCore: Abort, client detached.
+10-26 13:10:51.322  1708  2081 I chatty  : uid=10109(com.google.android.googlequicksearchbox) EventBus0 identical 3 lines
+10-26 13:10:51.322  1708  2081 W SearchServiceCore: Abort, client detached.
+10-26 13:10:51.347  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:51.347  4665  4893 I appium  : FindElement command
+10-26 13:10:51.348  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+10-26 13:10:51.348  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:51.357   479  1600 W ActivityManager: Slow operation: 59ms so far, now at getContentProviderImpl: after updateOomAdj
+10-26 13:10:51.357   479  1600 W ActivityManager: Slow operation: 59ms so far, now at getContentProviderImpl: done!
+10-26 13:10:51.359   479   505 I ActivityManager: Killing 5093:com.google.android.projection.gearhead:shared/u0a106 (adj 985): empty #17
+10-26 13:10:51.462  6074  6100 I DynamiteModule: Considering local module com.google.android.gms.flags:3 and remote module com.google.android.gms.flags:3
+10-26 13:10:51.462  6074  6100 I DynamiteModule: Selected local version of com.google.android.gms.flags
+10-26 13:10:51.481  6047  6072 I DynamiteModule: Considering local module com.google.android.gms.flags:3 and remote module com.google.android.gms.flags:3
+10-26 13:10:51.481  6047  6072 I DynamiteModule: Selected local version of com.google.android.gms.flags
+10-26 13:10:51.488  6047  6072 W DynamiteModule: Local module descriptor class for com.google.android.gms.crash not found.
+10-26 13:10:51.491   275   275 I Zygote  : Process 5093 exited due to signal 9 (Killed)
+10-26 13:10:51.497   479   518 I libprocessgroup: Successfully killed process cgroup uid 10106 pid 5093 in 127ms
+10-26 13:10:51.505  6047  6072 I TetheringManager: registerTetheringEventCallback:com.google.android.apps.pixelmigrate
+10-26 13:10:51.520  6074  6100 W DynamiteModule: Local module descriptor class for com.google.android.gms.crash not found.
+10-26 13:10:51.529  6074  6100 I DynamiteModule: Considering local module com.google.android.gms.crash:0 and remote module com.google.android.gms.crash:215
+10-26 13:10:51.529  6074  6100 I DynamiteModule: Selected remote version of com.google.android.gms.crash, version >= 215
+10-26 13:10:51.529  6074  6100 V DynamiteModule: Dynamite loader version >= 2, using loadModule2NoCrashUtils
+10-26 13:10:51.551  6074  6100 W id.apps.restor: Unsupported class loader
+10-26 13:10:51.570  6047  6072 I FirebaseCrashApiImpl: FirebaseCrash reporting API initialized
+10-26 13:10:51.570  6047  6072 I FirebaseCrash: FirebaseCrash reporting initialized esr@c0fca47
+10-26 13:10:51.570  6047  6072 W FirebaseCrashAnalytics: Unable to log event, missing Google Analytics for Firebase library
+10-26 13:10:51.582  6074  6100 W id.apps.restor: Unsupported class loader
+10-26 13:10:51.582   479  2151 E system_server: Invalid class loader spec: =UnsupportedClassLoaderContext=
+10-26 13:10:51.582   479  2151 E PackageDexUsage: Unsupported context?
+10-26 13:10:51.606  1395  1464 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:51.611  6074  6100 I FirebaseCrashApiImpl: FirebaseCrashApiImpl created by ClassLoader ax[DexPathList[[zip file "/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/DynamiteModulesC.apk"],nativeLibraryDirectories=[/data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/x86, /data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/armeabi-v7a, /data/user_de/0/com.google.android.gms/app_chimera/m/00000004/n/armeabi, /system/lib, /system_ext/lib]]]
+10-26 13:10:51.612  6074  6100 I FirebaseCrash: FirebaseCrash reporting loaded - cxy@cb0a186
+10-26 13:10:51.616  6074  6101 I DynamiteModule: Considering local module com.google.android.gms.flags:3 and remote module com.google.android.gms.flags:3
+10-26 13:10:51.616  6074  6101 I DynamiteModule: Selected local version of com.google.android.gms.flags
+10-26 13:10:51.620  6074  6101 W DynamiteModule: Local module descriptor class for com.google.android.gms.crash not found.
+10-26 13:10:51.626   479  3798 W ActivityManager: Unable to start service Intent { act=com.google.android.gms.auth.key.retrieval.service.START pkg=com.google.android.gms } U=0: not found
+10-26 13:10:51.636  6074  6101 I TetheringManager: registerTetheringEventCallback:com.google.android.apps.restore
+10-26 13:10:51.637  1395  4480 I GmsModuleFndr: Beginning GMS chimera module scan
+10-26 13:10:51.638  1395  4480 I ModuleSetMgr: Computing pending module set with APKs: [[AdsFdrDynamite.integ:21460000000], [Cronetdynamite:201817040700], [Dynamiteloader:201817040000], [Dynamitemodulesa:201817040000], [Dynamitemodulesc:201817040000], [Googlecertificates:201817040000], [Mapsdynamite:201817040000], [Measurementdynamite:201817040000]]
+10-26 13:10:51.649   479  3798 W ActivityManager: Unbind failed: could not find connection for android.os.BinderProxy@e27f3fb
+10-26 13:10:51.649  1395  2095 E GmsClient: unable to connect to service: com.google.android.gms.auth.key.retrieval.service.START on com.google.android.gms
+10-26 13:10:51.657  1080  6111 I Auth    : [AuthManaged,PasswordComplexityHelperImpl] Updating password complexity components state.
+10-26 13:10:51.657  1080  6111 I Auth    : [AuthManaged,PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.admin.DeviceAdminReceiver
+10-26 13:10:51.657  1080  6111 I Auth    : [AuthManaged,PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.ui.SetNewPasswordActivity
+10-26 13:10:51.659  1080  6111 I NetRec  : [681] akje.a: onConfigChanged()
+10-26 13:10:51.660  1080  6109 I Herrevad: [679] abjt.a: updateListenState
+10-26 13:10:51.662  1395  4480 I ModuleSetMgr: Pending container module APKs: []
+10-26 13:10:51.662  1395  4480 I ModuleSetMgr: Pending non-container module APKs: []
+10-26 13:10:51.672  6074  6101 I FirebaseCrashApiImpl: FirebaseCrash reporting API initialized
+10-26 13:10:51.672  6074  6101 I FirebaseCrash: FirebaseCrash reporting initialized cxy@cb0a186
+10-26 13:10:51.672  6074  6101 W FirebaseCrashAnalytics: Unable to log event, missing Google Analytics for Firebase library
+10-26 13:10:51.675  1080  6111 I NetRec  : [681] akje.a: Cancelling all NetRec GCM tasks
+10-26 13:10:51.676  1080  6110 I NetRec  : [680] ClearDatabaseService.onHandleIntent: Clearing score cache
+10-26 13:10:51.707  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"error":"no such element","message":"An element could not be located on the page using the given search parameters","stacktrace":"io.appium.uiautomator2.common.exceptions.ElementNotFoundException: An element could not be located on the page using the given search parameters\n\tat io.appium.uiautomator2.handler.FindElement.safeHandle(FindElement.java:63)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:267)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:261)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:107)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:434)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:361)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:325)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:249)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:288)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1429)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:176)\n\tat io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)\n\tat io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)\n\tat io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)\n\tat io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)\n\tat io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1195)\n\tat io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)\n\tat io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)\n\tat java.lang.Thread.run(Thread.java:923)\n"}}
+10-26 13:10:51.736  1080  1080 I GeofencerStateMachine: sendQueryLocationOptIn
+10-26 13:10:51.751  1080  1080 I chatty  : uid=10108 com.google.android.gms.persistent identical 3 lines
+10-26 13:10:51.755  1080  1080 I GeofencerStateMachine: sendQueryLocationOptIn
+10-26 13:10:51.758  1395  6115 I ChromeSync: [Sync,SyncIntentOperation] Handling the intent: Intent { act=com.google.gservices.intent.action.GSERVICES_CHANGED flg=0x1000010 cmp=com.google.android.gms/.chimera.GmsIntentOperationService$PersistentInternalReceiver }.
+10-26 13:10:51.758  1080  5498 I GCoreUlr: WorldUpdater received intent Intent { act=com.google.android.location.reporting.ACTION_UPDATE_WORLD cmp=com.google.android.gms/com.google.android.location.reporting.service.DispatchingService (has extras) } with receiverAction com.google.gservices.intent.action.GSERVICES_CHANGED
+10-26 13:10:51.764  1080  1080 I GeofencerStateMachine: sendQueryLocationOptIn
+10-26 13:10:51.773  1080  1080 I chatty  : uid=10108 com.google.android.gms.persistent identical 1 line
+10-26 13:10:51.780  1080  1080 I GeofencerStateMachine: sendQueryLocationOptIn
+10-26 13:10:51.797  1395  6115 I MobileDataHub: Scheduling periodic tasks
+10-26 13:10:51.799  1395  5845 I GmsModuleFndr: Beginning GMS chimera module scan
+10-26 13:10:51.809  1080  1080 I GeofencerStateMachine: sendQueryLocationOptIn
+10-26 13:10:51.817  1080  1080 I GeofencerStateMachine: sendQueryLocationOptIn
+10-26 13:10:51.818  1395  6115 W MobileDataHub: [Service] appsupload-periodic periodic task disabled
+10-26 13:10:51.828  1395  6115 I MdiSyncModule: flag handling is skipping irrelevant intent.
+10-26 13:10:51.828  1080  1080 I GeofencerStateMachine: sendQueryLocationOptIn
+10-26 13:10:51.832  1395  5845 I ModuleSetMgr: Computing pending module set with APKs: [[AdsFdrDynamite.integ:21460000000], [Cronetdynamite:201817040700], [Dynamiteloader:201817040000], [Dynamitemodulesa:201817040000], [Dynamitemodulesc:201817040000], [Googlecertificates:201817040000], [Mapsdynamite:201817040000], [Measurementdynamite:201817040000]]
+10-26 13:10:51.851  1395  6119 I SystemUpdate: [Installation,ReceiverIntentOperation] Received intent: Intent { act=com.google.gservices.intent.action.GSERVICES_CHANGED flg=0x1000010 cmp=com.google.android.gms/.chimera.GmsIntentOperationService$PersistentInternalReceiver }.
+10-26 13:10:51.854  3191  3260 I BuglePhenotype: onReceive for bugle package [CONTEXT package_name="com.google.android.apps.messaging" ]
+10-26 13:10:51.858  3191  3191 W ConfigurationUpdatedRec: Received update for unknown package com.google.android.apps.messaging
+10-26 13:10:51.858   479  1600 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10105; state: DISABLED
+10-26 13:10:51.859   479   517 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10105; state: DISABLED
+10-26 13:10:51.875  1395  6116 I SystemUpdate: [Execution,InstallationEventIntentOperation] Handling event of type 2.
+10-26 13:10:51.884  6121  6121 W d.configupdate: Unexpected CPU variant for X86 using defaults: x86
+10-26 13:10:51.885  1395  6119 I SystemUpdate: [Execution,InstallationIntentOperation] Received intent: Intent { act=com.google.android.gms.update.INSTALL_UPDATE cat=[targeted_intent_op_prefix:.update.execution.InstallationIntentOperation] cmp=com.google.android.gms/.chimera.GmsIntentOperationService }.
+10-26 13:10:51.886  1395  6119 I SystemUpdate: [Execution,ExecutionManager] Action finished-execution executed for 0.00 seconds.
+10-26 13:10:51.887   275   275 D Zygote  : Forked child process 6121
+10-26 13:10:51.889   479   517 I ActivityManager: Start proc 6121:com.google.android.configupdater/u0a105 for broadcast {com.google.android.configupdater/com.google.android.configupdater.PhenotypeBroadcastReceiver}
+10-26 13:10:51.891  6121  6121 E d.configupdate: Not starting debugger since process cannot load the jdwp agent.
+10-26 13:10:51.901  1395  5845 I ModuleSetMgr: Pending container module APKs: []
+10-26 13:10:51.901  1395  5845 I ModuleSetMgr: Pending non-container module APKs: []
+10-26 13:10:51.906  6121  6121 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-26 13:10:51.908  6121  6121 I d.configupdate: The ClassLoaderContext is a special shared library.
+10-26 13:10:51.909  6121  6121 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/ConfigUpdater/lib/x86:/product/lib:/system/product/lib
+10-26 13:10:51.910   479   521 E libprocessgroup: AddTidToCgroup failed to write '6137'; fd=61: Invalid argument
+10-26 13:10:51.910   479   521 E libprocessgroup: Failed to add task into cgroup
+10-26 13:10:51.910   479   521 W libprocessgroup: ExecuteForTask failed for aggregate profile: Invalid argument
+10-26 13:10:51.914  6121  6121 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:51.931   479  1600 W BroadcastQueue: Permission Denial: broadcasting Intent { act=com.google.android.checkin.CHECKIN_COMPLETE flg=0x1000010 (has extras) } from com.google.android.gms (pid=1395, uid=10108) is not exported from uid 10102 due to receiver com.android.vending/com.google.android.finsky.checkin.CheckinReceiver
+10-26 13:10:51.939   479  1600 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.settings flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+10-26 13:10:51.939   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.settings flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+10-26 13:10:51.939   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.settings flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+10-26 13:10:51.939   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.settings flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+10-26 13:10:51.939   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.settings flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+10-26 13:10:51.939   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.settings flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+10-26 13:10:51.939   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.settings flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+10-26 13:10:51.940   479   516 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10076; state: DISABLED
+10-26 13:10:51.940   479   517 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10076; state: ENABLED
+10-26 13:10:51.914  6121  6121 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:51.946   275   275 D Zygote  : Forked child process 6141
+10-26 13:10:51.946   479   517 I ActivityManager: Start proc 6141:com.google.android.packageinstaller/u0a76 for broadcast {com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver}
+10-26 13:10:51.949  6141  6141 W ackageinstalle: Unexpected CPU variant for X86 using defaults: x86
+10-26 13:10:51.954   398   697 W ServiceManager: Permission failure: android.permission.SYSTEM_CAMERA from uid=10108 pid=1395
+10-26 13:10:51.954  1395  6115 W PrereqChecker: No rear-facing camera detected.
+10-26 13:10:51.954  1395  6115 I OcrModelUpStIntentOp: Updating ocr activity enabled=false (phenotypeFlag=true, lowRamDevice=false, prereqCheck=false)
+10-26 13:10:51.955  1395  6115 I OcrModelUpStIntentOp: Downloading text recognizer
+10-26 13:10:51.963  6141  6141 E ackageinstalle: Not starting debugger since process cannot load the jdwp agent.
+10-26 13:10:51.980  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:51.980  4665  4893 I appium  : FindElement command
+10-26 13:10:51.981  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+10-26 13:10:51.981  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:51.991  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"error":"no such element","message":"An element could not be located on the page using the given search parameters","stacktrace":"io.appium.uiautomator2.common.exceptions.ElementNotFoundException: An element could not be located on the page using the given search parameters\n\tat io.appium.uiautomator2.handler.FindElement.safeHandle(FindElement.java:63)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:267)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:261)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:107)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:434)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:361)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:325)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:249)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:288)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1429)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:176)\n\tat io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)\n\tat io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)\n\tat io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)\n\tat io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)\n\tat io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1195)\n\tat io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)\n\tat io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)\n\tat java.lang.Thread.run(Thread.java:923)\n"}}
+10-26 13:10:52.000  1080  5498 I GCoreUlr: WorldUpdater:com.google.gservices.intent.action.GSERVICES_CHANGED: Ensuring that reporting is stopped because of reasons: (no Google accounts)
+10-26 13:10:52.007  6141  6141 I ackageinstalle: The ClassLoaderContext is a special shared library.
+10-26 13:10:52.018  6141  6141 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:52.018  6141  6141 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+10-26 13:10:52.021  1080  5498 I GCoreUlr: Unbound from all signal providers.
+10-26 13:10:52.024   479  2151 I ActivityManager: Killing 5286:com.google.android.videos/u0a121 (adj 985): empty #17
+10-26 13:10:52.033   275   275 I Zygote  : Process 5286 exited due to signal 9 (Killed)
+10-26 13:10:52.035   664   664 V AvrcpMediaPlayerList: onActiveSessionsChanged: number of controllers: 0
+10-26 13:10:52.042   479  2151 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server.test flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+10-26 13:10:52.043   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server.test flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+10-26 13:10:52.043   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server.test flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+10-26 13:10:52.043   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server.test flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+10-26 13:10:52.043   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server.test flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+10-26 13:10:52.043   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server.test flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+10-26 13:10:52.043   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server.test flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+10-26 13:10:52.046   479  1577 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+10-26 13:10:52.046   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+10-26 13:10:52.046   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+10-26 13:10:52.046   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+10-26 13:10:52.046   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+10-26 13:10:52.046   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+10-26 13:10:52.046   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:io.appium.uiautomator2.server flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+10-26 13:10:52.048   479  1600 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.zipo.interviewproject flg=0x4000010 (has extras) } to com.google.android.packageinstaller/com.android.packageinstaller.PackageInstalledReceiver
+10-26 13:10:52.049   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.zipo.interviewproject flg=0x4000010 (has extras) } to com.android.vending/com.google.android.finsky.packagemanager.impl.PackageMonitorReceiverImpl$RegisteredReceiver
+10-26 13:10:52.049   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.zipo.interviewproject flg=0x4000010 (has extras) } to com.google.android.gms/.games.chimera.GamesSystemBroadcastReceiverProxy
+10-26 13:10:52.049   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.zipo.interviewproject flg=0x4000010 (has extras) } to com.google.android.gms/.gass.chimera.PackageChangeBroadcastReceiver
+10-26 13:10:52.049   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.zipo.interviewproject flg=0x4000010 (has extras) } to com.google.android.gms/.chimera.GmsIntentOperationService$PersistentTrustedReceiver
+10-26 13:10:52.049   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.zipo.interviewproject flg=0x4000010 (has extras) } to com.google.android.googlequicksearchbox/com.google.android.apps.gsa.googlequicksearchbox.GelStubAppWatcher
+10-26 13:10:52.049   479   516 W BroadcastQueue: Background execution not allowed: receiving Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.zipo.interviewproject flg=0x4000010 (has extras) } to com.google.android.ims/.receivers.RcsAutoStartReceiver
+10-26 13:10:52.069  1080  1080 I GCoreUlr: Unbound from all signal providers.
+10-26 13:10:52.069  1080  1080 I GCoreUlr: Stopping handler for UlrDispSvcFast
+10-26 13:10:52.070   479   518 I libprocessgroup: Successfully killed process cgroup uid 10121 pid 5286 in 45ms
+10-26 13:10:52.080  1080  5498 I GCoreUlr: DispatchingService ignoring Intent { act=android.net.wifi.WIFI_STATE_CHANGED flg=0x4000010 (has extras) } because ULR inactive
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_birthdaydoodle_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_call_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_canvas_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_chkpkg_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_crashtest_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_dining_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_doodle_notifications_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_imageviewer_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_ipa_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_jslocation_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_localintent_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_messaging_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_nativesrp_activity_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_nativesrp_presenter_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_nowcontent_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_recents_activity_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_save_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_searchresults_activity_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_test_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag AndroidGsaVelourJars__velour_weather_jar__name to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag bindle_flags__bloblobber_blob to integer.
+10-26 13:10:52.083  1708  2140 W PhenotypeToGsaConfigs: Can't format flag bindle_flags__velour_jar to integer.
+10-26 13:10:52.102  1227  1257 W UsageLimitServiceImpl: Migrating limits: delete 0 obsolete limits, add 0 new limits
+10-26 13:10:52.154  2479  4342 I Finsky  : [373] lwz.run(4): Wrote 186 rows to frosting DB
+10-26 13:10:52.167  1395  1464 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:52.202  1708  2098 I EngineIdGenerator: Refusing EXCLUSIVE task 24, it is already pending. Try again in 324 seconds.
+10-26 13:10:52.214  1708  2098 I ModelDownloadListener: Schdedule model download
+10-26 13:10:52.215  1708  2138 I FedAssExpListener: Fed-ass not supported for signed out users.
+10-26 13:10:52.215  1708  2138 I FedAssExpListener: Successfully processed experiments changed.
+10-26 13:10:52.223  1080  1091 I .gms.persisten: Background young concurrent copying GC freed 146136(6461KB) AllocSpace objects, 15(1104KB) LOS objects, 33% free, 12MB/18MB, paused 48us total 201.910ms
+10-26 13:10:52.233  1708  2098 I OpaEligibilityChecker: send OpaEligibilityChange broadcast to CommonBroadcastReceiver
+10-26 13:10:52.259  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:52.260  4665  4893 I appium  : FindElement command
+10-26 13:10:52.260  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+10-26 13:10:52.260  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:52.268  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"error":"no such element","message":"An element could not be located on the page using the given search parameters","stacktrace":"io.appium.uiautomator2.common.exceptions.ElementNotFoundException: An element could not be located on the page using the given search parameters\n\tat io.appium.uiautomator2.handler.FindElement.safeHandle(FindElement.java:63)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:267)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:261)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:107)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:434)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:361)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:325)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:249)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:288)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1429)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:176)\n\tat io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)\n\tat io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)\n\tat io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)\n\tat io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)\n\tat io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1195)\n\tat io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)\n\tat io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)\n\tat java.lang.Thread.run(Thread.java:923)\n"}}
+10-26 13:10:52.293  1395  5845 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=agsa_icing_connection serviceId=33 [CONTEXT service_id=21 ]
+10-26 13:10:52.293  1395  2191 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=agsa_icing_connection serviceId=32 [CONTEXT service_id=21 ]
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: Invalid input from icing corpus JSON flag.
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: android.util.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 123 column 2
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at android.util.JsonReader.syntaxError(JsonReader.java:1162)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at android.util.JsonReader.checkLenient(JsonReader.java:840)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at android.util.JsonReader.nextInArray(JsonReader.java:615)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at android.util.JsonReader.peek(JsonReader.java:345)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at android.util.JsonReader.hasNext(JsonReader.java:321)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at com.google.android.apps.gsa.searchbox.c.b.b.k.a(SourceFile:25)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at com.google.android.apps.gsa.searchbox.c.b.b.j.a(SourceFile:1)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at com.google.android.apps.gsa.search.core.i.i.run(Unknown Source:2)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at com.google.android.libraries.gsa.l.a.l.call(Unknown Source:2)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at com.google.apps.tiktok.concurrent.aq.run(SourceFile:1)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at com.google.apps.tiktok.concurrent.f.run(Unknown Source:3)
+10-26 13:10:52.309  1708  2098 W CorpusConfigHelper: 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:52.311  1080  5504 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+10-26 13:10:52.311  1080  5504 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:52.311  1080  5504 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:52.314  5894  6045 I FA      : App measurement initialized, version: 26016
+10-26 13:10:52.314  5894  6045 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+10-26 13:10:52.314  5894  6045 I FA      : To enable faster debug mode event logging run:
+10-26 13:10:52.314  5894  6045 I FA      :   adb shell setprop debug.firebase.analytics.app com.google.android.apps.maps
+10-26 13:10:52.329  6047  6047 I Pixelmigrate: [PhenotypeSyncHelper] Phenotype registered successfully.
+10-26 13:10:52.339  1395  5863 W Icing   : No valid account for uploading user actions [CONTEXT service_id=21 ]
+10-26 13:10:52.339  1080  5501 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+10-26 13:10:52.339  1080  5501 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:52.339  1080  5501 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:52.341  6047  6047 I Pixelmigrate: [PhenotypeSyncHelper] Phenotype flags updated successfully.
+10-26 13:10:52.370  1395  2191 I Icing   : IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=null serviceId=30 [CONTEXT service_id=21 ]
+10-26 13:10:52.388  1080  5504 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+10-26 13:10:52.388  1080  5504 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:52.388  1080  5504 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:52.403  1080  5501 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+10-26 13:10:52.404  1080  5501 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:52.404  1080  5501 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: Failed to apply ContentProviderOperation(type=insert uri=content://media/internal/file values={instance_id=null, compilation=null, disc_number=null, duration=5000, is_ringtone=1, album_artist=null, resolution=null, orientation=null, artist=pdx, author=null, height=null, is_drm=0, is_audiobook=0, date_modified=1602626850, writer=null, composer=null, datetaken=null, mime_type=audio/ogg, is_notification=0, bitrate=80000, cd_track_number=2d214aR2, xmp=[], year=null, _data=/product/media/audio/ringtones/hydra.ogg, _size=22962, album=ringtones, genre=null, is_alarm=0, title=Hydra, width=null, is_music=0, document_id=null, is_podcast=0, capture_framerate=null, num_tracks=1, original_document_id=null, media_type=2} exceptionAllowed)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: android.database.sqlite.SQLiteConstraintException: UNIQUE constraint failed: files._data (code 2067 SQLITE_CONSTRAINT_UNIQUE)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.database.sqlite.SQLiteConnection.nativeExecuteForLastInsertedRowId(Native Method)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.database.sqlite.SQLiteConnection.executeForLastInsertedRowId(SQLiteConnection.java:938)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.database.sqlite.SQLiteSession.executeForLastInsertedRowId(SQLiteSession.java:790)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.database.sqlite.SQLiteStatement.executeInsert(SQLiteStatement.java:88)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.util.DatabaseUtils.executeInsert(DatabaseUtils.java:457)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.util.SQLiteQueryBuilder.insert(SQLiteQueryBuilder.java:597)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.util.SQLiteQueryBuilder.lambda$insert$1(SQLiteQueryBuilder.java:561)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.util.SQLiteQueryBuilder.lambda$insert$1$SQLiteQueryBuilder(Unknown Source:0)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.util.-$$Lambda$SQLiteQueryBuilder$YklJ51_aF7j8568p4VYgJs-CWNI.apply(Unknown Source:6)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.DatabaseHelper.runWithTransaction(DatabaseHelper.java:564)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.util.SQLiteQueryBuilder.insert(SQLiteQueryBuilder.java:560)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.lambda$insertAllowingUpsert$14(MediaProvider.java:3076)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.lambda$insertAllowingUpsert$14$MediaProvider(Unknown Source:0)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.-$$Lambda$MediaProvider$FjHWs2-fjgG761OzVFzdTX4EWZg.apply(Unknown Source:13)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.DatabaseHelper.runWithTransaction(DatabaseHelper.java:564)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.insertAllowingUpsert(MediaProvider.java:3066)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.insertFile(MediaProvider.java:3048)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.insertInternal(MediaProvider.java:3486)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.insert(MediaProvider.java:3208)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.content.ContentProviderOperation.applyInternal(ContentProviderOperation.java:375)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.content.ContentProviderOperation.apply(ContentProviderOperation.java:347)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.content.ContentProvider.applyBatch(ContentProvider.java:2422)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.applyBatch(MediaProvider.java:3538)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.content.ContentProvider.applyBatch(ContentProvider.java:2413)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.content.ContentResolver.applyBatch(ContentResolver.java:2186)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.applyPending(ModernMediaScanner.java:700)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.maybeApplyPending(ModernMediaScanner.java:690)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.visitFile(ModernMediaScanner.java:650)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.visitFile(ModernMediaScanner.java:273)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at java.nio.file.Files.walkFileTree(Files.java:2670)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at java.nio.file.Files.walkFileTree(Files.java:2742)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.walkFileTree(ModernMediaScanner.java:367)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner$Scan.run(ModernMediaScanner.java:330)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.scan.ModernMediaScanner.scanDirectory(ModernMediaScanner.java:227)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaProvider.scanDirectory(MediaProvider.java:1111)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaService.onScanVolume(MediaService.java:148)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaService.onScanVolume(MediaService.java:117)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaService.onScanVolume(MediaService.java:108)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at com.android.providers.media.MediaService.onHandleWork(MediaService.java:71)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at androidx.core.app.JobIntentService$CommandProcessor.doInBackground(JobIntentService.java:391)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at androidx.core.app.JobIntentService$CommandProcessor.doInBackground(JobIntentService.java:382)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at android.os.AsyncTask$3.call(AsyncTask.java:394)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:52.420  1864  3145 W ModernMediaScanner: 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:52.454  1395  5863 I Icing   : Usage reports ok 1, Failed Usage reports 0, indexed 0, rejected 0 [CONTEXT service_id=21 ]
+10-26 13:10:52.466  1395  5863 W Icing   : No valid account for uploading user actions [CONTEXT service_id=21 ]
+10-26 13:10:52.470  1395  5863 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0 [CONTEXT service_id=21 ]
+10-26 13:10:52.495  6074  6074 I Pixelmigrate: [PhenotypeSyncHelper] Phenotype registered successfully.
+10-26 13:10:52.504  1395  5863 W Icing   : No valid account for uploading user actions [CONTEXT service_id=21 ]
+10-26 13:10:52.510  6074  6074 I Pixelmigrate: [PhenotypeSyncHelper] Phenotype flags updated successfully.
+10-26 13:10:52.520  1395  5863 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0 [CONTEXT service_id=21 ]
+10-26 13:10:52.537  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:52.537  4665  4893 I appium  : FindElement command
+10-26 13:10:52.538  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+10-26 13:10:52.538  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:52.555  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"error":"no such element","message":"An element could not be located on the page using the given search parameters","stacktrace":"io.appium.uiautomator2.common.exceptions.ElementNotFoundException: An element could not be located on the page using the given search parameters\n\tat io.appium.uiautomator2.handler.FindElement.safeHandle(FindElement.java:63)\n\tat io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:267)\n\tat io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:261)\n\tat io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:107)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)\n\tat io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:434)\n\tat io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:361)\n\tat io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:325)\n\tat io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:249)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:288)\n\tat io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:355)\n\tat io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1429)\n\tat io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:918)\n\tat io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:176)\n\tat io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.handle(AbstractNioChannel.java:445)\n\tat io.netty.channel.nio.NioIoHandler$DefaultNioRegistration.handle(NioIoHandler.java:388)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKey(NioIoHandler.java:596)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeysOptimized(NioIoHandler.java:571)\n\tat io.netty.channel.nio.NioIoHandler.processSelectedKeys(NioIoHandler.java:512)\n\tat io.netty.channel.nio.NioIoHandler.run(NioIoHandler.java:484)\n\tat io.netty.channel.SingleThreadIoEventLoop.runIo(SingleThreadIoEventLoop.java:225)\n\tat io.netty.channel.SingleThreadIoEventLoop.run(SingleThreadIoEventLoop.java:196)\n\tat io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:1195)\n\tat io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)\n\tat io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)\n\tat java.lang.Thread.run(Thread.java:923)\n"}}
+10-26 13:10:52.590   479  3815 I ActivityTaskManager: START u0 {cmp=com.zipo.interviewproject/.MainActivity} from uid 10157
+10-26 13:10:52.590   479   510 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+10-26 13:10:52.592  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:52.603   479  2151 W ActivityTaskManager: Tried to set launchTime (0) < mLastActivityLaunchTime (140321)
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.603   479  2151 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+10-26 13:10:52.606   479   510 D EventSequenceValidator: Transition from INTENT_STARTED to INTENT_FAILED
+10-26 13:10:52.700  2903  2978 I TY_Phenotype: [082:260] [2978] Finished committing flags: success? true
+10-26 13:10:52.784   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f6de8000 0x3f770e000]
+10-26 13:10:52.804   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f5b72000 0x3f6498000]
+10-26 13:10:52.804   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f6498000 0x3f6dbe000]
+10-26 13:10:52.825  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:52.826  4665  4893 I appium  : FindElement command
+10-26 13:10:52.827  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+10-26 13:10:52.827  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:52.867  1864  3145 I MediaProvider: Scanned internal due to REASON_MOUNTED, found 232 items in 76524ms, 227 inserts 5 updates 0 deletes
+10-26 13:10:52.913  2479  6169 I Finsky  : [384] ehd.a(30): Completed 0 account content syncs with 0 successful.
+10-26 13:10:52.914  2479  2479 I Finsky  : [2] ContentSyncJob.a(1): [ContentSync] Installation state replication succeeded.
+10-26 13:10:52.914  2479  2479 I Finsky  : [2] wae.a(14): SCH: jobFinished: 12-1. TimeElapsed: 2816ms.
+10-26 13:10:52.914  2479  2479 I Finsky  : [2] vyu.a(35): SCH: Job 12-1 finished. Not rescheduling.
+10-26 13:10:52.914  2479  2479 I Finsky  : [2] vyt.handleMessage(58): SCH: RunningQueue size: 0, PendingQueue size: 0
+10-26 13:10:52.914  2479  2479 I Finsky  : [2] vyt.handleMessage(24): Executor finished
+10-26 13:10:52.921  1708  1708 I BgTaskExecutorImpl: Starting NONEXCLUSIVE background task UPDATE_GSERVICES_CONFIG.
+10-26 13:10:52.925  1708  2332 I GservicesUpdateTask: Updating Gservices keys
+10-26 13:10:52.938  2479  2479 I Finsky  : [2] wbh.a(7): SCH: Jobs in database: 1-1337 21-333333333 24-77777777 26-1414141414 31-305419896 
+10-26 13:10:52.940  2479  2479 I Finsky  : [2] vxc.a(58): SCH: ConstraintMapping: 24-77777777,  -> L: 0ms, D: 82745399ms, C: false, I: true, N: 0
+10-26 13:10:52.940  2479  2479 I Finsky  : [2] vxc.a(58): SCH: ConstraintMapping: 1-1337, 21-333333333, 31-305419896,  -> L: 5469ms, D: 22076937ms, C: false, I: false, N: 1
+10-26 13:10:52.940  2479  2479 I Finsky  : [2] vxc.a(58): SCH: ConstraintMapping: 26-1414141414,  -> L: 845700ms, D: 1745700ms, C: false, I: false, N: 0
+10-26 13:10:52.951  2479  2479 I Finsky  : [2] vzr.a(36): Cancelling existing jobscheduler jobs: 9003 9000 
+10-26 13:10:52.951  2479  2479 I Finsky  : [2] vzr.a(12): Throttling wakeup for job 9001 (expected to run in 0 ms) due to recent wakeup
+10-26 13:10:52.951  2479  2479 I Finsky  : [2] vzr.a(29): Scheduling job Id: 9001, L: 30000, D: 82745399, C: false, I: true, N: 0
+10-26 13:10:52.951  2479  2479 I Finsky  : [2] vzr.a(12): Throttling wakeup for job 9004 (expected to run in 5469 ms) due to recent wakeup
+10-26 13:10:52.952  2479  2479 I Finsky  : [2] vzr.a(29): Scheduling job Id: 9004, L: 30000, D: 22076937, C: false, I: false, N: 1
+10-26 13:10:52.952  1708  2081 W SearchServiceCore: Abort, client detached.
+10-26 13:10:52.952  1708  2081 I chatty  : uid=10109(com.google.android.googlequicksearchbox) EventBus0 identical 1 line
+10-26 13:10:52.953  1708  2081 W SearchServiceCore: Abort, client detached.
+10-26 13:10:52.953  2479  2479 I Finsky  : [2] vzr.a(29): Scheduling job Id: 9005, L: 845700, D: 1745700, C: false, I: false, N: 0
+10-26 13:10:52.971  1708  1708 I BgTaskExecutorImpl: Starting EXCLUSIVE background task UPDATE_HOTWORD_MODELS.
+10-26 13:10:52.977  1708  2331 I ModelDownloadController: requestHotwordModelUpdate modelType-2 modelLocale-en-US
+10-26 13:10:53.003  1708  2331 I ModelDownloadController: shouldDownloadModel: modelLocale is en-US
+10-26 13:10:53.003  1708  2331 I ModelDownloadController: #requestHotwordModelDownload
+10-26 13:10:53.003  1708  2331 I ModelDownloadController: Model download canceled - previously pending request found
+10-26 13:10:53.003  1708  2331 I ModelDownloadController: Model download not requested.
+10-26 13:10:53.049  1708  2081 W SearchServiceCore: Abort, client detached.
+10-26 13:10:53.080   479   515 I ActivityTaskManager: Displayed com.zipo.interviewproject/.MainActivity: +488ms
+10-26 13:10:53.194  1080  1091 I .gms.persisten: Background young concurrent copying GC freed 41463(2590KB) AllocSpace objects, 45(2864KB) LOS objects, 23% free, 13MB/18MB, paused 20us total 475.263ms
+10-26 13:10:53.287  1334  1418 I PeriodicStatsRunner: PeriodicStatsRunner.call():180 call()
+10-26 13:10:53.287  1334  1418 I PeriodicStatsRunner: PeriodicStatsRunner.call():184 No submit PeriodicStats since input started.
+10-26 13:10:53.293   479   516 W ActivityManager: Stopping service due to app idle: u0a99 -1m40s348ms com.google.android.setupwizard/.predeferred.PreDeferredUpdateService
+10-26 13:10:53.304  1039  1039 I SetupWizard: [PreDeferredUpdateService] Executing onDestroy()
+10-26 13:10:53.311   479  1577 I ActivityManager: Killing 1039:com.google.android.setupwizard/u0a99 (adj 965): empty #17
+10-26 13:10:53.311   479  1577 I ActivityManager: Killing 3005:com.google.android.gms.unstable/u0a108 (adj 985): empty #18
+10-26 13:10:53.326  6047  6047 W PrimesInit: Primes instant initialization
+10-26 13:10:53.326  6047  6047 I Pixelmigrate: [PhenotypeSyncHelper] Phenotype flags committed successfully.
+10-26 13:10:53.330  6047  6176 W Primes  : background initialization
+10-26 13:10:53.374   275   275 I Zygote  : Process 3005 exited due to signal 9 (Killed)
+10-26 13:10:53.398  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:53.403   275   275 I Zygote  : Process 1039 exited due to signal 9 (Killed)
+10-26 13:10:53.423   479  1597 D ConnectivityService: ConnectivityService NetworkRequestInfo binderDied(NetworkRequest [ LISTEN id=20, [ Transports: WIFI Capabilities: NOT_RESTRICTED&TRUSTED&NOT_VPN Uid: 10099 AdministratorUids: [] RequestorUid: 10099 RequestorPackageName: com.google.android.setupwizard] ], android.os.BinderProxy@d2f81cc)
+10-26 13:10:53.439   392   392 I perfetto: probes_producer.cc:329  Producer stop (id=11)
+10-26 13:10:53.443   395   395 I perfetto: ng_service_impl.cc:1948 Tracing session 11 ended, total sessions:0
+10-26 13:10:53.444   479   518 I libprocessgroup: Successfully killed process cgroup uid 10099 pid 1039 in 131ms
+10-26 13:10:53.444   479   518 I libprocessgroup: Successfully killed process cgroup uid 10108 pid 3005 in 0ms
+10-26 13:10:53.470   392   392 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+10-26 13:10:53.471  1864  3145 I MediaProvider: Using lower FS for /product/media/audio/ringtones/Ring_Synth_04.ogg
+10-26 13:10:53.478  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:53.479  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:53.500  1864  3145 I MediaProvider: Using lower FS for /product/media/audio/notifications/pixiedust.ogg
+10-26 13:10:53.517  1864  3145 I MediaProvider: Using lower FS for /product/media/audio/alarms/Alarm_Classic.ogg
+10-26 13:10:53.564  4282  4282 D CompatibilityChangeReporter: Compat change id reported: 119147584; UID 10117; state: ENABLED
+10-26 13:10:53.574  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:53.577  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:53.577  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:53.594  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:53.596  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:53.606  1395  1408 I gle.android.gm: Background young concurrent copying GC freed 535267(19MB) AllocSpace objects, 69(2984KB) LOS objects, 55% free, 17MB/39MB, paused 33us total 177.014ms
+10-26 13:10:53.629  1864  3962 E StorageManager: Failed to set extended attributes for /storage/emulated/0/Android to set project id.: Permission denied
+10-26 13:10:53.630  1864  3962 W MediaProvider: Failed to update quota type for /storage/emulated/0/Android
+10-26 13:10:53.630  1864  3962 W MediaProvider: java.io.IOException: Failed to update quota type for /storage/emulated/0/Android
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at android.os.storage.StorageManager.updateExternalStorageFileQuotaType(StorageManager.java:2512)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForFileInternal(MediaProvider.java:585)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForUri(MediaProvider.java:560)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider.access$800(MediaProvider.java:222)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider$3.lambda$onInsert$0(MediaProvider.java:611)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider$3.lambda$onInsert$0$MediaProvider$3(Unknown Source:0)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at com.android.providers.media.-$$Lambda$MediaProvider$3$OA4Hj-5lam3D4oprnbu7ZpL-f_E.run(Unknown Source:10)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at android.os.Handler.handleCallback(Handler.java:938)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at android.os.Looper.loop(Looper.java:223)
+10-26 13:10:53.630  1864  3962 W MediaProvider: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+10-26 13:10:53.641  1864  3145 I MediaProvider: Scanned external_primary due to REASON_MOUNTED, found 14 items in 72ms, 2 inserts 0 updates 0 deletes
+10-26 13:10:53.648  1864  3145 I MediaProvider: End Intent { act=android.intent.action.MEDIA_MOUNTED dat=file:///storage/emulated/0 flg=0x5000010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService (has extras) }
+10-26 13:10:53.650  1864  3962 E StorageManager: Failed to set extended attributes for /storage/emulated/0/Android/media to set project id.: Permission denied
+10-26 13:10:53.650  1864  3962 W MediaProvider: Failed to update quota type for /storage/emulated/0/Android/media
+10-26 13:10:53.650  1864  3962 W MediaProvider: java.io.IOException: Failed to update quota type for /storage/emulated/0/Android/media
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at android.os.storage.StorageManager.updateExternalStorageFileQuotaType(StorageManager.java:2512)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForFileInternal(MediaProvider.java:585)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider.updateQuotaTypeForUri(MediaProvider.java:560)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider.access$800(MediaProvider.java:222)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider$3.lambda$onInsert$0(MediaProvider.java:611)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at com.android.providers.media.MediaProvider$3.lambda$onInsert$0$MediaProvider$3(Unknown Source:0)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at com.android.providers.media.-$$Lambda$MediaProvider$3$OA4Hj-5lam3D4oprnbu7ZpL-f_E.run(Unknown Source:10)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at android.os.Handler.handleCallback(Handler.java:938)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at android.os.Looper.loop(Looper.java:223)
+10-26 13:10:53.650  1864  3962 W MediaProvider: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+10-26 13:10:53.655  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"ELEMENT":"00000000-0000-0019-ffff-ffff00000016","element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0019-ffff-ffff00000016"}}
+10-26 13:10:53.670  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:53.670  4665  4893 I appium  : FindElement command
+10-26 13:10:53.671  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/my_adapter_item_btn'
+10-26 13:10:53.671  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:53.677  1864  3145 I MediaProvider: Begin Intent { act=android.intent.action.MEDIA_MOUNTED dat=file:///storage/emulated/0 flg=0x5000010 cmp=com.google.android.providers.media.module/com.android.providers.media.MediaService (has extras) }
+10-26 13:10:53.682  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"ELEMENT":"00000000-0000-0019-ffff-ffff00000022","element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0019-ffff-ffff00000022"}}
+10-26 13:10:53.684  1080  5504 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+10-26 13:10:53.684  1080  5504 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:53.684  1080  5504 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:53.706  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:53.707  4665  4893 I appium  : FindElement command
+10-26 13:10:53.707  4665  4893 I appium  : method: '-android uiautomator', selector: 'new UiScrollable(new UiSelector().resourceIdMatches(".*:id/list_rv")).scrollIntoView(new UiSelector().text("Earth 1"))'
+10-26 13:10:53.708  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:53.711  1080  5504 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+10-26 13:10:53.711  1080  5504 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:53.711  1080  5504 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:53.713  4665  4893 D UiObject: Waiting 0ms for UiSelector[TEXT=Earth 1].
+10-26 13:10:53.722  4665  4893 I QueryController: Matched selector: UiSelector[TEXT=Earth 1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@f03a; boundsInParent: Rect(0, 0 - 123, 53); boundsInScreen: Rect(33, 292 - 156, 345); packageName: com.zipo.interviewproject; className: android.widget.TextView; text: Earth 1; error: null; maxTextLength: -1; stateDescription: null; contentDescription: null; tooltipText: null; viewIdResName: com.zipo.interviewproject:id/my_adapter_item_tv; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; importantForAccessibility: true; visible: true; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]]
+10-26 13:10:53.728  1864  3145 W ModernMediaScanner: Failed to visit /system/media: java.nio.file.NoSuchFileException: /system/media
+10-26 13:10:53.730  4665  4893 I QueryController: Matched selector: UiSelector[TEXT=Earth 1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@f03a; boundsInParent: Rect(0, 0 - 123, 53); boundsInScreen: Rect(33, 292 - 156, 345); packageName: com.zipo.interviewproject; className: android.widget.TextView; text: Earth 1; error: null; maxTextLength: -1; stateDescription: null; contentDescription: null; tooltipText: null; viewIdResName: com.zipo.interviewproject:id/my_adapter_item_tv; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; importantForAccessibility: true; visible: true; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]]
+10-26 13:10:53.732  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"ELEMENT":"00000000-0000-0019-ffff-ffff00000021","element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0019-ffff-ffff00000021"}}
+10-26 13:10:53.742  1864  3145 I MediaProvider: Scanned internal due to REASON_MOUNTED, found 0 items in 14ms, 0 inserts 0 updates 0 deletes
+10-26 13:10:53.743  1864  3145 W ModernMediaScanner: Failed to visit /oem/media: java.nio.file.NoSuchFileException: /oem/media
+10-26 13:10:53.744  1864  3145 I MediaProvider: Scanned internal due to REASON_MOUNTED, found 0 items in 1ms, 0 inserts 0 updates 0 deletes
+10-26 13:10:53.754  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:53.755  4665  4893 I appium  : FindElement command
+10-26 13:10:53.755  4665  4893 I appium  : method: 'xpath', selector: '//*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_tv' and @text='Earth 1']/following-sibling::*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_btn']'
+10-26 13:10:53.755  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:53.756  4665  4893 I appium  : The following attributes will be included to the page source: [resource-id, text]
+10-26 13:10:53.790  1080  5833 I Auth    : [AuthManaged,PasswordComplexityHelperImpl] Updating password complexity components state.
+10-26 13:10:53.790  1080  5833 I Auth    : [AuthManaged,PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.admin.DeviceAdminReceiver
+10-26 13:10:53.790  1080  5833 I Auth    : [AuthManaged,PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.ui.SetNewPasswordActivity
+10-26 13:10:53.798  6074  6074 W PrimesInit: Primes instant initialization
+10-26 13:10:53.799  6074  6074 I Pixelmigrate: [PhenotypeSyncHelper] Phenotype flags committed successfully.
+10-26 13:10:53.800  1080  2283 E angh    : Phenotype API error. Event # caox@46d218c1, EventCode: 5 [CONTEXT service_id=51 ]
+10-26 13:10:53.800  1080  2283 E angh    : anfl: 29501: Stale snapshot (change count changed - expected 1  but was 0)
+10-26 13:10:53.800  1080  2283 E angh    : 	at angk.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):13)
+10-26 13:10:53.800  1080  2283 E angh    : 	at angj.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:53.800  1080  2283 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):90)
+10-26 13:10:53.800  1080  2283 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:53.800  1080  2283 E angh    : 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:53.800  1080  2283 E angh    : 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:53.800  1080  2283 E angh    : 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:53.800  1080  2283 E angh    : 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:53.800  1080  2283 E angh    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:53.800  1080  2283 E angh    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:53.800  1080  2283 E angh    : 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:53.800  1080  2283 E angh    : 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: serviceID=51, operation=CommitToConfigurationOperationCall
+10-26 13:10:53.800  1080  2283 E AsyncOperation: OperationException[Status{statusCode=Stale snapshot (change count changed - expected 1  but was 0), resolution=null}]
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):92)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:53.800  1080  2283 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: Committing snapshot for com.google.android.libraries.internal.growth.growthkit#com.google.android.apps.messaging failed, retrying
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: java.util.concurrent.ExecutionException: tfs: 29501: Stale snapshot (change count changed - expected 1  but was 0)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at vck.b(PG:36)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at vck.a(PG:21)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at uwd.a(PG:15)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at ablf.a(PG:25)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at zpl.run(Unknown Source:1)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at aeua.run(PG:2)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at aesr.run(Unknown Source:4)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: Caused by: tfs: 29501: Stale snapshot (change count changed - expected 1  but was 0)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at tjm.a(PG:4)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at tjm.a(PG:1)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at uvx.onCommitToConfiguration(PG:2)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at com.google.android.gms.phenotype.internal.IPhenotypeCallbacks$Stub.dispatchTransaction(PG:36)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at com.google.android.aidl.BaseStub.onTransact(PG:7)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at android.os.Binder.execTransactInternal(Binder.java:1159)
+10-26 13:10:53.801  3191  3254 W PhenotypeFlagCommitter: 	at android.os.Binder.execTransact(Binder.java:1123)
+10-26 13:10:53.804  6074  6180 W Primes  : background initialization
+10-26 13:10:53.810  4665  4893 I appium  : Took 0ms to retrieve 1 matches for '//*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_tv' and @text='Earth 1']/following-sibling::*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_btn']' XPath2 query
+10-26 13:10:53.812  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"ELEMENT":"00000000-0000-0019-ffff-ffff00000022","element-6066-11e4-a52e-4f735466cecf":"00000000-0000-0019-ffff-ffff00000022"}}
+10-26 13:10:53.834  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:53.843  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/appium/gestures/double_click
+10-26 13:10:53.844  4665  4893 I appium  : DoubleClick command
+10-26 13:10:53.925  4665  4893 W GestureController: Gestures took longer than expected (72ms >> 16ms), device might be in a busy state.
+10-26 13:10:53.993   337   433 W AudioFlinger: createTrack_l(): mismatch between requested flags (00000004) and output flags (00000002)
+10-26 13:10:53.997   337   433 D AF::TrackHandle: OpPlayAudio: track:55 usage:13 not muted
+10-26 13:10:54.047   479   628 D AudioTrack: createTrack_l(-1): AUDIO_OUTPUT_FLAG_FAST denied by server; frameCount 0 -> 4512
+10-26 13:10:54.053   479  2150 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+10-26 13:10:54.053   479  2150 I chatty  : uid=1000(system) Binder:479_1C identical 1 line
+10-26 13:10:54.101   479  2150 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+10-26 13:10:54.161  4665  4893 W GestureController: Gestures took longer than expected (85ms >> 16ms), device might be in a busy state.
+10-26 13:10:54.162  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":null}
+10-26 13:10:54.182  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:54.182  4665  4893 I appium  : FindElement command
+10-26 13:10:54.183  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/paywall_title'
+10-26 13:10:54.183  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:54.215   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f7710000 0x3f7e83000]
+10-26 13:10:54.218   280   280 E FMQ     : grantorIdx must be less than 3
+10-26 13:10:54.237   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f49e0000 0x3f5153000]
+10-26 13:10:54.243   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3faccd000 0x3fb440000]
+10-26 13:10:54.282  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:54.332   280   280 E FMQ     : grantorIdx must be less than 3
+10-26 13:10:54.359   337   436 E FMQ     : grantorIdx must be less than 3
+10-26 13:10:54.359   337   436 E FMQ     : grantorIdx must be less than 3
+10-26 13:10:54.381  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:54.409  5983  6009 I nterviewprojec: Waiting for a blocking GC ProfileSaver
+10-26 13:10:54.426  5983  6009 I nterviewprojec: WaitForGcToComplete blocked ProfileSaver on RunEmptyCheckpoint for 16.275ms
+10-26 13:10:54.437   337   433 W AudioFlinger: createTrack_l(): mismatch between requested flags (00000004) and output flags (00000002)
+10-26 13:10:54.443   337   433 D AF::TrackHandle: OpPlayAudio: track:56 usage:13 not muted
+10-26 13:10:54.444   479   628 D AudioTrack: createTrack_l(1198744931): AUDIO_OUTPUT_FLAG_FAST denied by server; frameCount 0 -> 4512
+10-26 13:10:54.450  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:54.454  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:54.466   479  1577 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+10-26 13:10:54.488  1080  1091 I .gms.persisten: Background concurrent copying GC freed 233411(10MB) AllocSpace objects, 45(2252KB) LOS objects, 49% free, 7806KB/15MB, paused 19us total 675.582ms
+10-26 13:10:54.536   479  2399 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+10-26 13:10:54.544  1080  2283 E angh    : Phenotype API error. Event # caox@7adb7a67, EventCode: 5 [CONTEXT service_id=51 ]
+10-26 13:10:54.544  1080  2283 E angh    : anfl: 29501: Stale snapshot (change count changed - expected 5  but was 4)
+10-26 13:10:54.544  1080  2283 E angh    : 	at angk.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):13)
+10-26 13:10:54.544  1080  2283 E angh    : 	at angj.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:54.544  1080  2283 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):90)
+10-26 13:10:54.544  1080  2283 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:54.544  1080  2283 E angh    : 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:54.544  1080  2283 E angh    : 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:54.544  1080  2283 E angh    : 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:54.544  1080  2283 E angh    : 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:54.544  1080  2283 E angh    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:54.544  1080  2283 E angh    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:54.544  1080  2283 E angh    : 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:54.544  1080  2283 E angh    : 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: serviceID=51, operation=CommitToConfigurationOperationCall
+10-26 13:10:54.544  1080  2283 E AsyncOperation: OperationException[Status{statusCode=Stale snapshot (change count changed - expected 5  but was 4), resolution=null}]
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):92)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:54.544  1080  2283 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:54.544  1080  2283 E angh    : Phenotype API error. Event # caox@83d7645c, EventCode: 5 [CONTEXT service_id=51 ]
+10-26 13:10:54.544  1080  2283 E angh    : anfl: 29501: Stale snapshot (change count changed - expected 3  but was 2)
+10-26 13:10:54.544  1080  2283 E angh    : 	at angk.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):13)
+10-26 13:10:54.544  1080  2283 E angh    : 	at angj.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:54.544  1080  2283 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):90)
+10-26 13:10:54.544  1080  2283 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:54.544  1080  2283 E angh    : 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:54.544  1080  2283 E angh    : 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:54.544  1080  2283 E angh    : 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:54.544  1080  2283 E angh    : 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:54.544  1080  2283 E angh    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:54.544  1080  2283 E angh    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:54.544  1080  2283 E angh    : 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:54.544  1080  2283 E angh    : 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: serviceID=51, operation=CommitToConfigurationOperationCall
+10-26 13:10:54.545  1080  2283 E AsyncOperation: OperationException[Status{statusCode=Stale snapshot (change count changed - expected 3  but was 2), resolution=null}]
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):92)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:54.545  1080  2283 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:54.545  3191  3256 W PhenotypeFlagCommitter: Committing snapshot for com.google.android.apps.messaging failed, retrying
+10-26 13:10:54.547  2903  2903 I TY_Phenotype: [084:106] [2903] onReceive - Received Phenotype broadcast.
+10-26 13:10:54.552  2903  2903 I TY_Phenotype: [084:111] [2903] onReceive - Received Phenotype broadcast.
+10-26 13:10:54.560  2903  2903 I TY_Phenotype: [084:119] [2903] onReceive - Received Phenotype broadcast.
+10-26 13:10:54.569   337   436 D AudioFlinger: mixer(0xf0dd3030) throttle end: throttle time(29)
+10-26 13:10:54.721  5983  5983 I Choreographer: Skipped 32 frames!  The application may be doing too much work on its main thread.
+10-26 13:10:54.769  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:54.770  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:54.814   479  2149 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+10-26 13:10:54.837  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:54.901  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:55.009   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f8773000]
+10-26 13:10:55.032   291   340 D goldfish-address-space: claimShared: Ask to claim region [0x3f8773000 0x3f8ee6000]
+10-26 13:10:55.043  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:55.043  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:55.046   291   291 D goldfish-address-space: claimShared: Ask to claim region [0x3f8ee6000 0x3f9659000]
+10-26 13:10:55.094  2811  2811 D PhenotypeUpdateService: onCreate called
+10-26 13:10:55.103  2811  2854 D PhenotypeUpdateService: Updating Phenotype configs
+10-26 13:10:55.206  5983  6012 I OpenGLRenderer: Davey! duration=1002ms; Flags=1, IntendedVsync=145921722163, Vsync=146455055475, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=146458848188, AnimationStart=146458850551, PerformTraversalsStart=146458930049, DrawStart=146769928610, SyncQueued=146811226298, SyncStart=146830427298, IssueDrawCommandsStart=146830467097, SwapBuffers=146851665715, FrameCompleted=146943285118, DequeueBufferDuration=21141, QueueBufferDuration=149501, GpuCompleted=0, 
+10-26 13:10:55.302  1395  5863 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms [CONTEXT service_id=21 ]
+10-26 13:10:55.303  1395  5863 I Icing   : Indexing done com.google.android.gms-apps [CONTEXT service_id=21 ]
+10-26 13:10:55.689  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"ELEMENT":"00000000-0000-001b-ffff-ffff00000078","element-6066-11e4-a52e-4f735466cecf":"00000000-0000-001b-ffff-ffff00000078"}}
+10-26 13:10:55.696  6047  6063 I ps.pixelmigrat: Waiting for a blocking GC ProfileSaver
+10-26 13:10:55.721  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/back
+10-26 13:10:55.726  4665  4893 I appium  : PressBack command
+10-26 13:10:55.726  4665  4893 D UiDevice: Pressing back button.
+10-26 13:10:55.861   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:55.866  1334  1334 I PhenotypeModule: PhenotypeModule.receiveBroadcast():356 onReceive() urgent = false
+10-26 13:10:55.866  1334  1334 I PhenotypeModule: PhenotypeModule.maybeFetchAndUpdate():167 maybeFetchAndUpdate: forceRefresh=false
+10-26 13:10:55.996   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.020   479  1577 W InputDispatcher: Excessive delay in interceptKeyBeforeQueueing; took 132 ms
+10-26 13:10:56.030   479   508 E RemoteAugmentedAutofillService: Bad service name for flags 1048704: com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiAugmentedAutofillService
+10-26 13:10:56.055  5983  5983 W InputEventReceiver: Attempted to finish an input event but the input event receiver has already been disposed.
+10-26 13:10:56.089  6047  6063 I ps.pixelmigrat: WaitForGcToComplete blocked ProfileSaver on ClassLinker for 393.355ms
+10-26 13:10:56.117   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.208   280  6183 I chatty  : uid=1041(audioserver) audio.service.r identical 3 lines
+10-26 13:10:56.244   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.255  1334  1418 I PeriodicStatsRunner: PeriodicStatsRunner.call():180 call()
+10-26 13:10:56.255  1334  1418 I PeriodicStatsRunner: PeriodicStatsRunner.call():184 No submit PeriodicStats since input started.
+10-26 13:10:56.259   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.379   280  6183 I chatty  : uid=1041(audioserver) audio.service.r identical 5 lines
+10-26 13:10:56.393   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.503   479   488 I system_server: Background young concurrent copying GC freed 283548(12MB) AllocSpace objects, 32(896KB) LOS objects, 46% free, 15MB/29MB, paused 29us total 317.718ms
+10-26 13:10:56.522   479   490 W System  : A resource failed to call release. 
+10-26 13:10:56.522   479   490 I chatty  : uid=1000(system) FinalizerDaemon identical 2 lines
+10-26 13:10:56.522   479   490 W System  : A resource failed to call release. 
+10-26 13:10:56.721  1334  1766 E PhenotypeModule: PhenotypeModule.handlePhenotypeConfigurationUpdates():246 Get empty configurations.
+10-26 13:10:56.722  1080  5501 I anhw    : Scheduling adaptive one off task with window [14400, 604800] in seconds [CONTEXT service_id=51 ]
+10-26 13:10:56.752  1334  1766 I PhenotypeModule: PhenotypeModule.lambda$fetchAndUpdate$3():215 fetchAndUpdate() : Success, hasFlags=true, flagCount=451, lastFetchStatus=October 26, 1:10 PM {reason=2, isFullFetch=false, success=true, isEmpty=true, isDelta=false, updatedFlagsCount=0, deletedFlagsCount=0, totalTime=868}
+10-26 13:10:56.756  2903  2922 I id.apps.tachyo: Waiting for a blocking GC ProfileSaver
+10-26 13:10:56.802   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.803  2903  2922 I id.apps.tachyo: WaitForGcToComplete blocked ProfileSaver on HeapTrim for 46.784ms
+10-26 13:10:56.811  1080  1091 I .gms.persisten: Background young concurrent copying GC freed 125867(5822KB) AllocSpace objects, 49(2864KB) LOS objects, 24% free, 11MB/15MB, paused 8.490ms total 805.134ms
+10-26 13:10:56.842   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.843  1080  2283 E angh    : Phenotype API error. Event # caox@a0210061, EventCode: 5 [CONTEXT service_id=51 ]
+10-26 13:10:56.843  1080  2283 E angh    : anfl: 29501: Stale snapshot (committed configuration changed)
+10-26 13:10:56.843  1080  2283 E angh    : 	at angk.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):22)
+10-26 13:10:56.843  1080  2283 E angh    : 	at angj.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:56.843  1080  2283 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):90)
+10-26 13:10:56.843  1080  2283 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:56.843  1080  2283 E angh    : 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:56.843  1080  2283 E angh    : 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:56.843  1080  2283 E angh    : 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:56.843  1080  2283 E angh    : 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:56.843  1080  2283 E angh    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:56.843  1080  2283 E angh    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:56.843  1080  2283 E angh    : 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:56.843  1080  2283 E angh    : 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: serviceID=51, operation=CommitToConfigurationOperationCall
+10-26 13:10:56.844  1080  2283 E AsyncOperation: OperationException[Status{statusCode=Stale snapshot (committed configuration changed), resolution=null}]
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):92)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:56.844  1080  2283 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:56.844  2903  2965 W PhenotypeFlagCommitter: Committing snapshot for com.google.android.apps.tachyon failed, retrying
+10-26 13:10:56.846  2903  2978 I TY_Phenotype: [086:405] [2978] Finished committing flags: success? true
+10-26 13:10:56.848   479   650 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10108; state: DISABLED
+10-26 13:10:56.849   479   517 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10108; state: ENABLED
+10-26 13:10:56.866  3080  5005 I CarrierServices: [313] eav.a: Received Provisioning Event: [Bugle information (100)]
+10-26 13:10:56.866  3080  5005 I CarrierServices: [313] eav.a: JibeService is running, passing event to provisioning engine.
+10-26 13:10:56.866  3080  5005 I CarrierServices: [313] dqc.a: Handling Provisioning Event: [Bugle information (100)]
+10-26 13:10:56.866  3080  5005 I CarrierServices: [313] dsd.a: RcsAvailabilityManager: Calculating Rcs Availability
+10-26 13:10:56.866  3080  5005 I CarrierServices: [313] dtf.b: Bugle ContentProvider is disabled by p/h flag, using ProvisioningEngineStateCacheUtil.getBugleHasRequiredPermission()
+10-26 13:10:56.866  3080  5005 I CarrierServices: [313] dtf.b: Bugle has minimum required RCS permissions: true
+10-26 13:10:56.866  3080  5005 W CarrierServices: [313] dvk.a: No config URL. RCS will be disabled!
+10-26 13:10:56.866  3080  5005 I CarrierServices: [313] chn.h: BindingManager: binding and reset P/H Flag stay same
+10-26 13:10:56.866  3080  5005 I CarrierServices: [313] dsd.a: RcsAvailabilityManager: Rcs Availability still DISABLED_VIA_GSERVICES (RCS is disabled for this carrier by Google)
+10-26 13:10:56.869   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.872   275   275 D Zygote  : Forked child process 6190
+10-26 13:10:56.873   479   517 I ActivityManager: Start proc 6190:com.google.android.gms.unstable/u0a108 for service {com.google.android.gms/com.google.android.gms.droidguard.DroidGuardService}
+10-26 13:10:56.876  6190  6190 W id.gms.unstabl: Unexpected CPU variant for X86 using defaults: x86
+10-26 13:10:56.881  6190  6190 E id.gms.unstabl: Not starting debugger since process cannot load the jdwp agent.
+10-26 13:10:56.883  1080  2244 E angh    : Phenotype API error. Event # caox@634075, EventCode: 5 [CONTEXT service_id=51 ]
+10-26 13:10:56.883  1080  2244 E angh    : anfl: 29501: Stale snapshot (committed configuration changed)
+10-26 13:10:56.883  1080  2244 E angh    : 	at angk.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):22)
+10-26 13:10:56.883  1080  2244 E angh    : 	at angj.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:56.883  1080  2244 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):90)
+10-26 13:10:56.883  1080  2244 E angh    : 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:56.883  1080  2244 E angh    : 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:56.883  1080  2244 E angh    : 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:56.883  1080  2244 E angh    : 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:56.883  1080  2244 E angh    : 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:56.883  1080  2244 E angh    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:56.883  1080  2244 E angh    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:56.883  1080  2244 E angh    : 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:56.883  1080  2244 E angh    : 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: serviceID=51, operation=CommitToConfigurationOperationCall
+10-26 13:10:56.883  1080  2244 E AsyncOperation: OperationException[Status{statusCode=Stale snapshot (committed configuration changed), resolution=null}]
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):92)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at angh.a(:com.google.android.gms@201817022@20.18.17 (040700-311416286):77)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at zus.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):10)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at blot.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):2)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at sji.b(:com.google.android.gms@201817022@20.18.17 (040700-311416286):12)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at sji.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):8)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at spj.run(:com.google.android.gms@201817022@20.18.17 (040700-311416286):0)
+10-26 13:10:56.883  1080  2244 E AsyncOperation: 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:56.884  2903  2945 W PhenotypeFlagCommitter: Committing snapshot for com.google.android.apps.tachyon failed, retrying
+10-26 13:10:56.895   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.899  6190  6190 I id.gms.unstabl: The ClassLoaderContext is a special shared library.
+10-26 13:10:56.899  6190  6190 I chatty  : uid=10108 com.google.android.gms.unstable identical 1 line
+10-26 13:10:56.904  6190  6190 I id.gms.unstabl: The ClassLoaderContext is a special shared library.
+10-26 13:10:56.904  6190  6190 D nativeloader: classloader namespace configured for unbundled product apk. library_path=/product/priv-app/PrebuiltGmsCore/lib/x86:/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk!/lib/x86:/product/lib:/system/product/lib
+10-26 13:10:56.913  6190  6190 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-26 13:10:56.914  6190  6190 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+10-26 13:10:56.934   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.955  6190  6190 W DynamiteModule: Local module descriptor class for providerinstaller not found.
+10-26 13:10:56.959  6190  6190 W ProviderHelper: Unknown dynamite feature providerinstaller
+10-26 13:10:56.963  6190  6190 I DynamiteModule: Considering local module providerinstaller:0 and remote module providerinstaller:0
+10-26 13:10:56.964  6190  6190 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+10-26 13:10:56.966  6190  6190 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 286 native methods...
+10-26 13:10:56.974   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:56.975  6190  6190 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+10-26 13:10:56.983  6190  6190 I Safeboot: Checking safeboot...
+10-26 13:10:56.983  6190  6190 I Safeboot: Not entering safeboot; wrong process.
+10-26 13:10:56.989   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.026   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.027  6190  6190 W bdhq    : Primes not initialized, returning default (no-op) Primes instance which will ignore all calls. Please call Primes.initialize(...) before using any Primes API.
+10-26 13:10:57.061  4701  4701 W GrowthKit: Failed to get phenotypeManager in PhenotypeBroadcastReceiver
+10-26 13:10:57.061  4701  4701 W GrowthKit: java.lang.NullPointerException: Unable to get GrowthKit Component from host app: com.google.android.calendar
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at cal.ott.a(PG:12)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at com.google.android.libraries.internal.growth.growthkit.internal.experiments.impl.PhenotypeBroadcastReceiver.onReceive(PG:3)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:4032)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at android.app.ActivityThread.access$1400(ActivityThread.java:237)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1924)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at android.os.Looper.loop(Looper.java:223)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at android.app.ActivityThread.main(ActivityThread.java:7656)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+10-26 13:10:57.061  4701  4701 W GrowthKit: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+10-26 13:10:57.064  4701  4701 W Notifications: [ChimeBroadcastReceiver] BroadcastReceiver stopped
+10-26 13:10:57.064  4701  4701 W Notifications: java.lang.IllegalStateException: Unable to get ChimeComponent from host app. Did you mean for your application to extend GeneratedComponentManager or HasComponent or to use jcga.libraries.notifications.injection.Chime#set(ChimeComponent)?
+10-26 13:10:57.064  4701  4701 W Notifications: 	at cal.pwl.a(PG:7)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at cal.pun.onReceive(PG:8)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at android.app.ActivityThread.handleReceiver(ActivityThread.java:4032)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at android.app.ActivityThread.access$1400(ActivityThread.java:237)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1924)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at android.os.Handler.dispatchMessage(Handler.java:106)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at android.os.Looper.loop(Looper.java:223)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at android.app.ActivityThread.main(ActivityThread.java:7656)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at java.lang.reflect.Method.invoke(Native Method)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+10-26 13:10:57.064  4701  4701 W Notifications: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+10-26 13:10:57.066   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.099  6190  6190 I TetheringManager: registerTetheringEventCallback:com.google.android.gms
+10-26 13:10:57.106   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.116  5396  5682 W YouTube : Could not register for notifications with InnerTube: 
+10-26 13:10:57.116  5396  5682 W YouTube : abwi: java.util.concurrent.ExecutionException: aacl: Precondition check failed.
+10-26 13:10:57.116  5396  5682 W YouTube : 	at abwa.b(PG:18)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at aicr.f(PG:65)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at aicr.g(PG:133)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at aicr.b(PG:99)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at ahyh.run(Unknown Source:1)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at aosv.run(Unknown Source:1)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at zdm.run(PG:13)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at java.lang.Thread.run(Thread.java:923)
+10-26 13:10:57.116  5396  5682 W YouTube : Caused by: java.util.concurrent.ExecutionException: aacl: Precondition check failed.
+10-26 13:10:57.116  5396  5682 W YouTube : 	at apmr.a(PG:135)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at apmr.get(PG:89)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at abwa.b(PG:17)
+10-26 13:10:57.116  5396  5682 W YouTube : 	... 11 more
+10-26 13:10:57.116  5396  5682 W YouTube : Caused by: aacl: Precondition check failed.
+10-26 13:10:57.116  5396  5682 W YouTube : 	at abuo.c(PG:106)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at znq.a(PG:62)
+10-26 13:10:57.116  5396  5682 W YouTube : 	at zmp.run(Unknown Source:18)
+10-26 13:10:57.116  5396  5682 W YouTube : 	... 4 more
+10-26 13:10:57.116  5396  5682 W YouTube : Caused by: btc
+10-26 13:10:57.116  5396  5682 W YouTube : 	at zmp.run(Unknown Source:6)
+10-26 13:10:57.116  5396  5682 W YouTube : 	... 4 more
+10-26 13:10:57.121   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.198   280  6183 I chatty  : uid=1041(audioserver) audio.service.r identical 2 lines
+10-26 13:10:57.212   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.243  2903  2978 I TY_Phenotype: [086:802] [2978] Finished committing flags: success? true
+10-26 13:10:57.250   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.254  1080  1091 I .gms.persisten: Background concurrent copying GC freed 181740(7987KB) AllocSpace objects, 19(908KB) LOS objects, 49% free, 10079KB/19MB, paused 830us total 300.357ms
+10-26 13:10:57.277  4665  4893 W InteractionController: Timed out waiting 1000ms for command and events.
+10-26 13:10:57.277  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":null}
+10-26 13:10:57.290   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.294  4665  4893 I appium  : channel read: POST /session/1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945/element
+10-26 13:10:57.294  4665  4893 I appium  : FindElement command
+10-26 13:10:57.295  4665  4893 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/paywall_title'
+10-26 13:10:57.295  4665  4893 I appium  : Waiting up to 10000ms for the device to idle
+10-26 13:10:57.304  4665  4893 I appium  : AppiumResponse: {"sessionId":"1a0e8e15-8c50-45dd-9cc6-6a46e8bc6945","value":{"ELEMENT":"00000000-0000-001a-ffff-ffff00000055","element-6066-11e4-a52e-4f735466cecf":"00000000-0000-001a-ffff-ffff00000055"}}
+10-26 13:10:57.324  1080  6109 I Auth    : [AuthManaged,PasswordComplexityHelperImpl] Updating password complexity components state.
+10-26 13:10:57.324  1080  6109 I Auth    : [AuthManaged,PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.admin.DeviceAdminReceiver
+10-26 13:10:57.324  1080  6109 I Auth    : [AuthManaged,PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.ui.SetNewPasswordActivity
+10-26 13:10:57.330   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.359   280  6183 W android.hardware.audio.service.ranchu: TinyalsaSink::write:125 pcm_write was late reading frames, dropping 22131 us of audio
+10-26 13:10:57.380  1864  1874 I FuseDaemon: Background concurrent copying GC freed 61358(3574KB) AllocSpace objects, 28(560KB) LOS objects, 49% free, 2394KB/4788KB, paused 6.177ms total 135.566ms
+10-26 13:10:57.396  2903  2965 I TY_Phenotype: [086:956] [2965] Finished committing flags: success? true
+10-26 13:10:57.404   408   408 I keystore: del USRPKEY_unstable.c7202ece89390c490b1b94d5b71225e1.A-1477462921750943468 10108
+10-26 13:10:57.405   408   408 I keystore: del USRSKEY_unstable.c7202ece89390c490b1b94d5b71225e1.A-1477462921750943468 10108
+10-26 13:10:57.405   408   408 I keystore: del USRCERT_unstable.c7202ece89390c490b1b94d5b71225e1.A-1477462921750943468 10108
+10-26 13:10:57.405   408   408 I keystore: del CACERT_unstable.c7202ece89390c490b1b94d5b71225e1.A-1477462921750943468 10108
+10-26 13:10:57.417   408   408 I keystore: del USRPKEY_unstable.c7202ece89390c490b1b94d5b71225e1.A-1477462921750943468 10108
+10-26 13:10:57.418   408   408 I keystore: del USRCERT_unstable.c7202ece89390c490b1b94d5b71225e1.A-1477462921750943468 10108
+10-26 13:10:57.418   408   408 I keystore: del CACERT_unstable.c7202ece89390c490b1b94d5b71225e1.A-1477462921750943468 10108
+10-26 13:10:57.420   408   408 I keystore: del USRPKEY_unstable.c7202ece89390c490b1b94d5b71225e1.B-1477462921750943468 10108
+10-26 13:10:57.420   408   408 I keystore: del USRSKEY_unstable.c7202ece89390c490b1b94d5b71225e1.B-1477462921750943468 10108
+10-26 13:10:57.420   408   408 I keystore: del USRCERT_unstable.c7202ece89390c490b1b94d5b71225e1.B-1477462921750943468 10108
+10-26 13:10:57.420   408   408 I keystore: del CACERT_unstable.c7202ece89390c490b1b94d5b71225e1.B-1477462921750943468 10108
+10-26 13:10:57.435  6190  6205 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+10-26 13:10:57.436  6190  6205 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+10-26 13:10:57.440  6190  6205 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+10-26 13:10:57.479  3191  3254 I BuglePhenotype: onReceive for bugle package [CONTEXT package_name="com.google.android.apps.messaging" ]
+10-26 13:10:57.484  3191  3191 W ConfigurationUpdatedRec: Received update for unknown package com.google.android.apps.messaging
+10-26 13:10:57.495  3191  3191 W ConfigurationUpdatedRec: Received update for unknown package com.google.android.gms.icing.mdd#com.google.android.apps.messaging
+10-26 13:10:57.498  1708  1708 W n       : Received update for unknown package com.google.android.googlequicksearchbox
+10-26 13:10:57.504  1708  1708 I BgTaskExecutorImpl: Starting EXCLUSIVE background task FETCH_CONFIGS_FROM_PHENOTYPE.
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: Exception thrown while unbinding
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: java.lang.IllegalArgumentException: Service not registered: lm@5842037
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:1757)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at android.app.ContextImpl.unbindService(ContextImpl.java:1874)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:792)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at ce.b(:com.google.android.gms.dynamite_measurementdynamite@201817052@20.18.17 (040700-0):1)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at ce.a(:com.google.android.gms.dynamite_measurementdynamite@201817052@20.18.17 (040700-0):5)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at ln.A(:com.google.android.gms.dynamite_measurementdynamite@201817052@20.18.17 (040700-0):10)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at ky.a(:com.google.android.gms.dynamite_measurementdynamite@201817052@20.18.17 (040700-0):3)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at dy.run(:com.google.android.gms.dynamite_measurementdynamite@201817052@20.18.17 (040700-0):2)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+10-26 13:10:57.510  5894  6045 W ConnectionTracker: 	at iw.run(:com.google.android.gms.dynamite_measurementdynamite@201817052@20.18.17 (040700-0):15)
+10-26 13:10:57.522  6190  6205 D HostConnection: HostConnection::get() New Host Connection established 0xee326b90, tid 6205
