@@ -1,0 +1,1 @@
+Artifacts: /home/runner/work/mobile-qa-automation-java/mobile-qa-automation-java/artifacts/BUG-3_Not_now_must_be_fully_visible_in_landscape
