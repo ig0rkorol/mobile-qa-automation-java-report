@@ -1,1 +1,0 @@
-Artifacts: /home/runner/work/mobile-qa-automation-java/mobile-qa-automation-java/artifacts/BUG-7_row_titles_must_be_readable_in_dark_theme

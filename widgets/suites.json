@@ -1,1 +1,1 @@
-{"total":3,"items":[{"uid":"271a3dbd5ac1ae642c1c8a144e570875","name":"Known bugs","statistic":{"failed":3,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":3}},{"uid":"ac0ee466e66173fdb500d2754b145f4e","name":"Appearance","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}},{"uid":"962fffba85154ddf2941eb23a3db2db5","name":"App launch","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{"total":0,"items":[]}

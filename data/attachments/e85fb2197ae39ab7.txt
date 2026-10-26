@@ -1,1 +1,0 @@
-Artifacts: /home/runner/work/mobile-qa-automation-java/mobile-qa-automation-java/artifacts/BUG-1_double_tap_on_Download_must_open_only_one_paywall
