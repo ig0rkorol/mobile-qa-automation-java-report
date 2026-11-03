@@ -1,0 +1,111 @@
+11-03 15:50:57.637   480  1752 I ActivityManager: Force stopping com.zipo.interviewproject appid=10156 user=0: from pid 5922
+11-03 15:50:57.640   480  1752 I ActivityManager: Killing 5466:com.zipo.interviewproject/u0a156 (adj 0): stop com.zipo.interviewproject due to from pid 5922
+11-03 15:50:57.641   480  1752 W ActivityTaskManager: Force removing ActivityRecord{2795599 u0 com.zipo.interviewproject/.MainActivity t13 f}}: app died, no saved state
+11-03 15:50:57.644   480   570 W InputDispatcher: channel '63ad85b com.zipo.interviewproject/com.zipo.interviewproject.MainActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+11-03 15:50:57.644   480   570 E InputDispatcher: channel '63ad85b com.zipo.interviewproject/com.zipo.interviewproject.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+11-03 15:50:57.644   480   570 W InputDispatcher: channel '672592c com.zipo.interviewproject/com.zipo.interviewproject.MainActivity (server)' ~ Consumer closed input channel or an error occurred.  events=0x9
+11-03 15:50:57.644   480   570 E InputDispatcher: channel '672592c com.zipo.interviewproject/com.zipo.interviewproject.MainActivity (server)' ~ Channel is unrecoverably broken and will be disposed!
+11-03 15:50:57.882   480  1752 I WindowManager:   Force finishing activity ActivityRecord{2795599 u0 com.zipo.interviewproject/.MainActivity t13 f} isExiting}
+11-03 15:50:57.882   480  1752 W ActivityTaskManager: Duplicate finish request for r=ActivityRecord{2795599 u0 com.zipo.interviewproject/.MainActivity t13 f} isExiting}
+11-03 15:50:57.891   480   513 W InputDispatcher: Attempted to unregister already unregistered input channel '63ad85b com.zipo.interviewproject/com.zipo.interviewproject.MainActivity (server)'
+11-03 15:50:57.891   480   513 W InputDispatcher: Attempted to unregister already unregistered input channel '672592c com.zipo.interviewproject/com.zipo.interviewproject.MainActivity (server)'
+11-03 15:50:59.111   480   535 I AppsFilter: interaction: PackageSetting{b1c4550 com.zipo.interviewproject/10156} -> PackageSetting{c6c04d1 com.google.android.gm/10134} BLOCKED
+11-03 15:50:59.392   480  1621 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.zipo.interviewproject/.SplashActivity} from uid 2000
+11-03 15:50:59.440  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:50:59.575   480   519 I ActivityManager: Start proc 6015:com.zipo.interviewproject/u0a156 for pre-top-activity {com.zipo.interviewproject/com.zipo.interviewproject.SplashActivity}
+11-03 15:50:59.753  6015  6015 I nterviewprojec: Late-enabling -Xcheck:jni
+11-03 15:50:59.783  6015  6015 I nterviewprojec: Unquickening 12 vdex files!
+11-03 15:50:59.784  6015  6015 W nterviewprojec: Unexpected CPU variant for X86 using defaults: x86
+11-03 15:50:59.894  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:51:00.542  6015  6015 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-03 15:51:00.543  6015  6015 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-03 15:51:00.544  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:51:00.559  6015  6015 D WM-WrkMgrInitializer: Initializing WorkManager with default configuration.
+11-03 15:51:00.571  6015  6015 I TetheringManager: registerTetheringEventCallback:com.zipo.interviewproject
+11-03 15:51:00.596  6015  6060 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+11-03 15:51:00.596  6015  6060 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+11-03 15:51:00.598  6015  6060 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+11-03 15:51:00.733  6015  6015 W nterviewprojec: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+11-03 15:51:00.734  6015  6015 W nterviewprojec: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+11-03 15:51:00.864  6015  6057 D HostConnection: HostConnection::get() New Host Connection established 0xebf9ef50, tid 6057
+11-03 15:51:00.877  6015  6057 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+11-03 15:51:00.958  6015  6057 D EGL_emulation: eglCreateContext: 0xebf81a50: maj 3 min 0 rcv 3
+11-03 15:51:00.962  6015  6057 D EGL_emulation: eglMakeCurrent: 0xebf81a50: ver 3 0 (tinfo 0xec1f9350) (first time)
+11-03 15:51:01.004  6015  6057 I Gralloc4: mapper 4.x is not supported
+11-03 15:51:01.005  6015  6057 D HostConnection: createUnique: call
+11-03 15:51:01.006  6015  6057 D HostConnection: HostConnection::get() New Host Connection established 0xebf82e70, tid 6057
+11-03 15:51:01.006  6015  6057 D goldfish-address-space: allocate: Ask for block of size 0x100
+11-03 15:51:01.006  6015  6057 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3f3ffe000 size 0x2000
+11-03 15:51:01.019  6015  6057 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+11-03 15:51:01.552  6015  6057 I OpenGLRenderer: Davey! duration=740ms; Flags=1, IntendedVsync=165471811596, Vsync=165471811596, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=165475278756, AnimationStart=165475281651, PerformTraversalsStart=165475283322, DrawStart=165684049767, SyncQueued=165685592931, SyncStart=165688697368, IssueDrawCommandsStart=165688819416, SwapBuffers=166081684975, FrameCompleted=166215227248, DequeueBufferDuration=3074639, QueueBufferDuration=6695317, GpuCompleted=0, 
+11-03 15:51:01.664   480   517 D ArtManagerInternalImpl: /data/misc/iorapd/com.zipo.interviewproject/1/com.zipo.interviewproject.SplashActivity/compiled_traces/compiled_trace.pb doesn't exist
+11-03 15:51:01.666   480   517 I ActivityTaskManager: Displayed com.zipo.interviewproject/.SplashActivity: +2s182ms
+11-03 15:51:01.777  6015  6096 W nterviewprojec: Verification of boolean androidx.emoji2.text.DefaultEmojiCompatConfig$DefaultEmojiCompatConfigFactory.hasFlagSystem(android.content.pm.ProviderInfo) took 129.762ms (131.01 bytecodes/s) (1168B approximate peak alloc)
+11-03 15:51:01.950  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:51:02.543  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:51:02.839  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:51:03.139  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:51:03.387   480   535 I AppsFilter: interaction: PackageSetting{b1c4550 com.zipo.interviewproject/10156} -> PackageSetting{86f2ff com.google.android.setupwizard/10098} BLOCKED
+11-03 15:51:03.387   480   535 I AppsFilter: interaction: PackageSetting{b1c4550 com.zipo.interviewproject/10156} -> PackageSetting{7b958cc com.google.android.videos/10119} BLOCKED
+11-03 15:51:03.387   480   535 I AppsFilter: interaction: PackageSetting{b1c4550 com.zipo.interviewproject/10156} -> PackageSetting{ffc867e com.google.android.projection.gearhead/10106} BLOCKED
+11-03 15:51:03.422  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:51:03.779   480   766 I ActivityTaskManager: START u0 {cmp=com.zipo.interviewproject/.MainActivity} from uid 10156
+11-03 15:51:03.865  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:51:04.345  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:51:04.432   480   535 I AppsFilter: interaction: PackageSetting{b1c4550 com.zipo.interviewproject/10156} -> PackageSetting{7b958cc com.google.android.videos/10119} BLOCKED
+11-03 15:51:04.841  6015  6015 I Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
+11-03 15:51:05.048  6015  6057 I OpenGLRenderer: Davey! duration=756ms; Flags=0, IntendedVsync=168955094378, Vsync=169505094356, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=169505377843, AnimationStart=169505380409, PerformTraversalsStart=169505616949, DrawStart=169509010018, SyncQueued=169511456911, SyncStart=169511557150, IssueDrawCommandsStart=169511614313, SwapBuffers=169577339253, FrameCompleted=169711720123, DequeueBufferDuration=5919800, QueueBufferDuration=4807039, GpuCompleted=0, 
+11-03 15:51:05.392  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/my_adapter_item_btn'
+11-03 15:51:05.459  4480  4600 I QueryController: Matched selector: UiSelector[TEXT=Earth 1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@f040; boundsInParent: Rect(0, 0 - 123, 53); boundsInScreen: Rect(33, 292 - 156, 345); packageName: com.zipo.interviewproject; className: android.widget.TextView; text: Earth 1; error: null; maxTextLength: -1; stateDescription: null; contentDescription: null; tooltipText: null; viewIdResName: com.zipo.interviewproject:id/my_adapter_item_tv; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; importantForAccessibility: true; visible: true; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]]
+11-03 15:51:05.489  4480  4600 I QueryController: Matched selector: UiSelector[TEXT=Earth 1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@f040; boundsInParent: Rect(0, 0 - 123, 53); boundsInScreen: Rect(33, 292 - 156, 345); packageName: com.zipo.interviewproject; className: android.widget.TextView; text: Earth 1; error: null; maxTextLength: -1; stateDescription: null; contentDescription: null; tooltipText: null; viewIdResName: com.zipo.interviewproject:id/my_adapter_item_tv; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; importantForAccessibility: true; visible: true; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]]
+11-03 15:51:05.549  4480  4600 I appium  : method: 'xpath', selector: '//*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_tv' and @text='Earth 1']/following-sibling::*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_btn']'
+11-03 15:51:05.622  4480  4600 I appium  : Took 0ms to retrieve 1 matches for '//*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_tv' and @text='Earth 1']/following-sibling::*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_btn']' XPath2 query
+11-03 15:51:06.846  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/paywall_title'
+11-03 15:51:08.035  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/paywall_title'
+11-03 15:51:08.115   480   512 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:08.115   480   512 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{c22bde0 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xc43763b
+11-03 15:51:08.353   480   767 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:08.430   480   517 I ActivityTaskManager: Displayed com.zipo.interviewproject/.MainActivity: +993ms
+11-03 15:51:08.449  6015  6015 E WindowManager: android.view.WindowLeaked: Activity com.zipo.interviewproject.MainActivity has leaked window DecorView@5c8eba1[MainActivity] that was originally added here
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:733)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.view.ViewRootImpl.<init>(ViewRootImpl.java:717)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.view.WindowManagerGlobal.addView(WindowManagerGlobal.java:399)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.view.WindowManagerImpl.addView(WindowManagerImpl.java:109)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.app.Dialog.show(Dialog.java:340)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.zipo.interviewproject.MainActivity.showTestPaywall(MainActivity.kt:89)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.zipo.interviewproject.MainActivity.access$showTestPaywall(MainActivity.kt:28)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.zipo.interviewproject.MainActivity$setupRv$1$1.invoke(MainActivity.kt:58)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.zipo.interviewproject.MainActivity$setupRv$1$1.invoke(MainActivity.kt:42)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.zipo.interviewproject.MyListAdapter$MyViewHolder._init_$lambda-0(MyListAdapter.kt:40)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.zipo.interviewproject.MyListAdapter$MyViewHolder.$r8$lambda$eerQbGd4Mso-ue_ngcvxLP8SPqQ(Unknown Source:0)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.zipo.interviewproject.MyListAdapter$MyViewHolder$$ExternalSyntheticLambda0.onClick(Unknown Source:4)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.view.View.performClick(View.java:7448)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.google.android.material.button.MaterialButton.performClick(MaterialButton.java:1194)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.view.View.performClickInternal(View.java:7425)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.view.View.access$3600(View.java:810)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.view.View$PerformClick.run(View.java:28305)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.os.Handler.handleCallback(Handler.java:938)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.os.Looper.loop(Looper.java:223)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at android.app.ActivityThread.main(ActivityThread.java:7656)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at java.lang.reflect.Method.invoke(Native Method)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:592)
+11-03 15:51:08.449  6015  6015 E WindowManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:947)
+11-03 15:51:08.702   480   767 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:08.706  6015  6015 I Choreographer: Skipped 33 frames!  The application may be doing too much work on its main thread.
+11-03 15:51:08.709   480   553 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:08.709   480   553 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:08.882   480   553 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:08.888   480   553 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:08.889   480   553 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:08.902   480   513 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:09.133   480   553 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:09.339   480   512 W WindowManager: Force clearing orientation change: Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}
+11-03 15:51:09.339   480   512 W WindowManager: Force clearing orientation change: Window{d82ecd3 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}
+11-03 15:51:09.391  6015  6057 I OpenGLRenderer: Davey! duration=1244ms; Flags=1, IntendedVsync=172805336208, Vsync=173355336186, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=173369479989, AnimationStart=173369483041, PerformTraversalsStart=173369504316, DrawStart=174003151153, SyncQueued=174011311778, SyncStart=174016188262, IssueDrawCommandsStart=174016233780, SwapBuffers=174026790795, FrameCompleted=174054386491, DequeueBufferDuration=31387, QueueBufferDuration=528294, GpuCompleted=72904454231491230, 
+11-03 15:51:09.400   480   513 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:09.403   480   513 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:09.436   480   513 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0xb4074ca
+11-03 15:51:09.535  6015  6015 I Choreographer: Skipped 46 frames!  The application may be doing too much work on its main thread.
+11-03 15:51:09.553   480   513 I WindowManager: Screen frozen for +2s213ms due to Window{947fb08 u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}
+11-03 15:51:10.960  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/paywall_title'

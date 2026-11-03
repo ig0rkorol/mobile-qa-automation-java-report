@@ -1,0 +1,49 @@
+11-03 15:50:30.265   480  1728 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{a830add u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0x666baa6
+11-03 15:50:30.543   480   766 V WindowManager: Orientation start waiting for draw, mDrawState=DRAW_PENDING in Window{a830add u0 com.zipo.interviewproject/com.zipo.interviewproject.MainActivity}, surfaceController Surface(name=com.zipo.interviewproject/com.zipo.interviewproject.MainActivity)/@0x666baa6
+11-03 15:50:32.751   480  1752 I ActivityManager: Force stopping com.zipo.interviewproject appid=10156 user=0: from pid 4946
+11-03 15:50:32.754   480  1752 I ActivityManager: Killing 4711:com.zipo.interviewproject/u0a156 (adj 0): stop com.zipo.interviewproject due to from pid 4946
+11-03 15:50:32.762   480  1752 W ActivityTaskManager: Force removing ActivityRecord{43793c6 u0 com.zipo.interviewproject/.MainActivity t11 f}}: app died, no saved state
+11-03 15:50:34.274   480  1062 I ActivityTaskManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.zipo.interviewproject/.SplashActivity} from uid 2000
+11-03 15:50:34.570  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:50:34.646   480   519 I ActivityManager: Start proc 5005:com.zipo.interviewproject/u0a156 for pre-top-activity {com.zipo.interviewproject/com.zipo.interviewproject.SplashActivity}
+11-03 15:50:34.737  5005  5005 I nterviewprojec: Late-enabling -Xcheck:jni
+11-03 15:50:34.749  5005  5005 I nterviewprojec: Unquickening 12 vdex files!
+11-03 15:50:34.750  5005  5005 W nterviewprojec: Unexpected CPU variant for X86 using defaults: x86
+11-03 15:50:35.418  5005  5005 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-03 15:50:35.418  5005  5005 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-03 15:50:35.700  5005  5005 D WM-WrkMgrInitializer: Initializing WorkManager with default configuration.
+11-03 15:50:35.733  5005  5005 I TetheringManager: registerTetheringEventCallback:com.zipo.interviewproject
+11-03 15:50:35.790  5005  5060 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+11-03 15:50:35.802  5005  5060 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+11-03 15:50:35.812  5005  5060 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+11-03 15:50:35.839  5005  5005 W nterviewprojec: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+11-03 15:50:35.839  5005  5005 W nterviewprojec: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+11-03 15:50:36.224  5005  5058 D HostConnection: HostConnection::get() New Host Connection established 0xebf82f50, tid 5058
+11-03 15:50:36.241  5005  5058 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+11-03 15:50:36.252  5005  5058 D EGL_emulation: eglCreateContext: 0xebf9f260: maj 3 min 0 rcv 3
+11-03 15:50:36.256  5005  5058 D EGL_emulation: eglMakeCurrent: 0xebf9f260: ver 3 0 (tinfo 0xec1f89b0) (first time)
+11-03 15:50:36.377  5005  5058 I Gralloc4: mapper 4.x is not supported
+11-03 15:50:36.378  5005  5058 D HostConnection: createUnique: call
+11-03 15:50:36.378  5005  5058 D HostConnection: HostConnection::get() New Host Connection established 0xebf81900, tid 5058
+11-03 15:50:36.378  5005  5058 D goldfish-address-space: allocate: Ask for block of size 0x100
+11-03 15:50:36.378  5005  5058 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3f3ffe000 size 0x2000
+11-03 15:50:36.403  5005  5058 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0 
+11-03 15:50:36.923  5005  5058 I OpenGLRenderer: Davey! duration=938ms; Flags=1, IntendedVsync=140646936487, Vsync=140646936487, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=140652530880, AnimationStart=140652535840, PerformTraversalsStart=140652537941, DrawStart=141069021786, SyncQueued=141070386197, SyncStart=141071648305, IssueDrawCommandsStart=141071719592, SwapBuffers=141474543345, FrameCompleted=141586292697, DequeueBufferDuration=3881718, QueueBufferDuration=8532028, GpuCompleted=0, 
+11-03 15:50:36.962   480   517 D ArtManagerInternalImpl: /data/misc/iorapd/com.zipo.interviewproject/1/com.zipo.interviewproject.SplashActivity/compiled_traces/compiled_trace.pb doesn't exist
+11-03 15:50:37.298   480   517 I ActivityTaskManager: Displayed com.zipo.interviewproject/.SplashActivity: +2s688ms
+11-03 15:50:37.369  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:50:38.038  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:50:38.325  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:50:38.614  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:50:38.892   480  2094 I ActivityTaskManager: START u0 {cmp=com.zipo.interviewproject/.MainActivity} from uid 10156
+11-03 15:50:38.897  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:50:39.359  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/list_rv'
+11-03 15:50:39.762  5005  5058 I OpenGLRenderer: Davey! duration=716ms; Flags=1, IntendedVsync=143705210687, Vsync=143721877353, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=143724272479, AnimationStart=143724275024, PerformTraversalsStart=143724276530, DrawStart=144052254891, SyncQueued=144075687642, SyncStart=144079523229, IssueDrawCommandsStart=144079653509, SwapBuffers=144391968777, FrameCompleted=144425548019, DequeueBufferDuration=1991132, QueueBufferDuration=8580980, GpuCompleted=0, 
+11-03 15:50:39.879  5005  5005 I Choreographer: Skipped 36 frames!  The application may be doing too much work on its main thread.
+11-03 15:50:39.917   480   517 I ActivityTaskManager: Displayed com.zipo.interviewproject/.MainActivity: +878ms
+11-03 15:50:40.043   480   535 I AppsFilter: interaction: PackageSetting{b1c4550 com.zipo.interviewproject/10156} -> PackageSetting{2dd0dc7 com.android.camera2/10133} BLOCKED
+11-03 15:50:40.050   480   535 I AppsFilter: interaction: PackageSetting{b1c4550 com.zipo.interviewproject/10156} -> PackageSetting{d0ea6bb com.google.android.calendar/10127} BLOCKED
+11-03 15:50:40.050  5005  5058 I OpenGLRenderer: Davey! duration=775ms; Flags=0, IntendedVsync=143938554241, Vsync=144538554217, OldestInputEvent=9223372036854775807, NewestInputEvent=0, HandleInputStart=144543178515, AnimationStart=144543180765, PerformTraversalsStart=144543396735, DrawStart=144547074984, SyncQueued=144683402755, SyncStart=144683732610, IssueDrawCommandsStart=144683791029, SwapBuffers=144697903643, FrameCompleted=144714056302, DequeueBufferDuration=25866, QueueBufferDuration=166621, GpuCompleted=0, 
+11-03 15:50:40.579  4480  4600 I appium  : method: 'id', selector: 'com.zipo.interviewproject:id/my_adapter_item_btn'
+11-03 15:50:40.613  4480  4600 I appium  : method: 'xpath', selector: '//*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_tv' and @text='Earth 1']'
+11-03 15:50:40.695  4480  4600 I appium  : Took 2ms to retrieve 1 matches for '//*[@resource-id='com.zipo.interviewproject:id/my_adapter_item_tv' and @text='Earth 1']' XPath2 query
